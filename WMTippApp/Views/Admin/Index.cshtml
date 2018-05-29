@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<div>
+@using (Html.BeginForm("Generate", "Admin", FormMethod.Post))
+{
+    <button type="submit" value="Generate">Generate Data</button>
+}
+</div>
+
+<div>
+@using (Html.BeginForm("Clear", "Admin", FormMethod.Post))
+{
+    <button type="submit" value="Clear">Clear Data</button>
+}
+</div>
+
+<div>
+    @using (Html.BeginForm("DeleteTipps", "Admin", FormMethod.Post))
+    {
+        <button type="submit" value="DeleteTipps">Löschen aller Tipps</button>
+    }
+</div>
+
+<div style="display:none;">
+@using (Html.BeginForm("Index", "Admin", FormMethod.Post))
+{
+
+    <div style="float:right;">
+        @Html.DropDownList("Spieltag", null, new { onchange = "$(this).closest('form').submit();" })
+    </div>
+    <br style="clear:both" />
+}
+</div>

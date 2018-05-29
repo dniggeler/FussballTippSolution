@@ -1,0 +1,60 @@
+﻿@model FussballTippApp.Models.DailyWinnerInfoModel
+
+    <table class="MatchLister">
+    <tr>
+        <th>Rang</th>
+        <th>Name</th>
+        <th>#Tipps</th>
+        <th>Avg</th>
+        <th>Total</th>
+            
+        @foreach (var m in Model.MatchInfo)
+        {
+            <th>
+                <img alt="@m.HomeTeam" src="@m.HomeTeamIcon" />
+                <br />
+                <img alt="@m.AwayTeam" src="@m.AwayTeamIcon" />
+            </th>
+        }
+
+    </tr>
+    @foreach (var m in Model.Ranking)
+    {
+        <tr>
+            <td>@m.Rang</td>
+            <td>@m.DisplayName</td>
+            <td>@m.TippCount</td>
+            <td>@String.Format("{0:0.00}", m.PointAvg)</td>
+            <td>@String.Format("{0:0.00}", m.TotalPoints)</td>
+
+            @foreach (var h in Model.MatchInfo)
+            {               
+                var tippObj = (from el in Model.AllTippInfoDict[m.User] 
+                                where el.MatchId==h.MatchId
+                                select el)
+                                .FirstOrDefault();
+
+                string cssIsCorrect = (tippObj != null && tippObj.IsMyTipCorrect == true) ? "CorrectTip" : "";
+
+                if (tippObj == null || tippObj.MyTip.HasValue == false)
+                {
+                    <td> - </td>
+                }
+                else if (tippObj.MyTip.Value == 0)
+                {
+                    <td >
+                        <span class="@cssIsCorrect">X</span>
+                    </td>
+                }
+                else
+                {
+                    <td >
+                        <span class="@cssIsCorrect">
+                            @tippObj.MyTip.Value
+                        </span>
+                    </td>
+                }
+            }
+        </tr>
+    }
+</table>

@@ -1,0 +1,30 @@
+﻿@model FussballTippApp.Models.OverallDailyWinnerInfoModel
+
+@{
+    ViewBag.Title = "Alle Tagessieger";
+    int rank = 1;
+    var lastItem = Model.AllDailyWinnerMap.FirstOrDefault();
+}
+
+<h2>Rangliste Tagessieger</h2>
+
+<table class="MatchLister">
+    <tr>
+        <th>Rang</th>
+        <th>Name</th>
+        <th>#Wins</th>
+    </tr>
+    @foreach (var m in Model.AllDailyWinnerMap)
+    {
+        if (lastItem.Value == null || lastItem.Value.Wins != m.Value.Wins)
+        {
+            rank = m.Value.Rang;
+        }
+        lastItem = m;
+        <tr>
+            <td>@rank</td>
+            <td>@m.Value.DisplayName</td>
+            <td>@m.Value.Wins</td>
+        </tr>
+    }
+</table>

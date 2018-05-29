@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - Tippspiel</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+
+        @Styles.Render("~/Content/ext/css")
+        @Scripts.Render("~/bundles/ext")
+
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+        <header id="layoutHeader">
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title">@Html.ActionLink("BuLi-Tippspiel", "Index", "Home")</p>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                    <nav>
+                        <ul id="menu">
+                            <li>@Html.ActionLink("Gesamtstand", "OverallStanding", "Home")</li>
+                            <li>@Html.ActionLink("Tagessieger", "DailyWinners", "Home")</li>
+                            <li>@Html.ActionLink("Tippen", "Index", "Home")</li>
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <!--
+                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                            -->
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year - Tippspiel by BhFS</p>
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        @RenderSection("Scripts", required: false)
+    </body>
+</html>
+
+<script type="text/javascript" language="javascript">
+    
+    // AJAX activity indicator bound to ajax start/stop document events
+    $(document).ajaxStart(function () {
+        Ext.getBody().mask('Saving data,please wait...','x-mask-loading').addClass('my-mask');
+        //Ext.MessageBox.wait('Saving data, please wait...');
+    }).ajaxStop(function () {
+        Ext.getBody().unmask();
+    });
+
+</script>

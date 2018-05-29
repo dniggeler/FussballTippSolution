@@ -1,0 +1,992 @@
+﻿[
+  {
+    "MatchID": 37181,
+    "MatchDateTime": "2016-06-10T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-10T19:00:00Z",
+    "Team1": {
+      "TeamId": 144,
+      "TeamName": "Frankreich",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png"
+    },
+    "Team2": {
+      "TeamId": 143,
+      "TeamName": "Rumänien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/200px-Flag_of_Romania.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-11T00:25:30.743",
+    "MatchIsFinished": true,
+    "MatchResults": [
+      {
+        "ResultID": 66888,
+        "ResultName": "Halbzeit",
+        "PointsTeam1": 0,
+        "PointsTeam2": 0,
+        "ResultOrderID": 1,
+        "ResultDescription": "Ergebnis nach der ersten Halbzeit"
+      },
+      {
+        "ResultID": 66894,
+        "ResultName": "Endergebnis",
+        "PointsTeam1": 2,
+        "PointsTeam2": 1,
+        "ResultOrderID": 2,
+        "ResultDescription": "Ergebnis nach 90 Minuten + Nachspielzeit"
+      }
+    ],
+    "Goals": [
+      {
+        "GoalID": 51866,
+        "ScoreTeam1": 1,
+        "ScoreTeam2": 0,
+        "MatchMinute": 58,
+        "GoalGetterID": 8224,
+        "GoalGetterName": "Olivier Giroud",
+        "IsPenalty": false,
+        "IsOwnGoal": false,
+        "IsOvertime": false,
+        "Comment": "Kopfball, Vorbereitung Payet"
+      },
+      {
+        "GoalID": 51867,
+        "ScoreTeam1": 1,
+        "ScoreTeam2": 1,
+        "MatchMinute": 65,
+        "GoalGetterID": 15798,
+        "GoalGetterName": "Bogdan Stancu",
+        "IsPenalty": true,
+        "IsOwnGoal": false,
+        "IsOvertime": false,
+        "Comment": "Rechtsschuss, Foulelfmeter"
+      },
+      {
+        "GoalID": 51870,
+        "ScoreTeam1": 2,
+        "ScoreTeam2": 1,
+        "MatchMinute": 88,
+        "GoalGetterID": 15800,
+        "GoalGetterName": "Payet",
+        "IsPenalty": false,
+        "IsOwnGoal": false,
+        "IsOvertime": false,
+        "Comment": "Linksschuss, Vorbereitung Coman"
+      }
+    ],
+    "Location": {
+      "LocationID": 1020,
+      "LocationCity": "Saint-Denis",
+      "LocationStadium": "Stade de France"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37182,
+    "MatchDateTime": "2016-06-11T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-11T13:00:00Z",
+    "Team1": {
+      "TeamId": 2889,
+      "TeamName": "Albanien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/200px-Flag_of_Albania.svg.png"
+    },
+    "Team2": {
+      "TeamId": 38,
+      "TeamName": "Schweiz",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg/23px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:34:58.007",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1015,
+      "LocationCity": "Lens",
+      "LocationStadium": "Stade Bollaert-Delelis"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37183,
+    "MatchDateTime": "2016-06-15T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-15T16:00:00Z",
+    "Team1": {
+      "TeamId": 143,
+      "TeamName": "Rumänien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/200px-Flag_of_Romania.svg.png"
+    },
+    "Team2": {
+      "TeamId": 38,
+      "TeamName": "Schweiz",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg/23px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png"
+    },
+    "LastUpdateDateTime": "2016-05-17T15:37:51.967",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1038,
+      "LocationCity": "Paris",
+      "LocationStadium": "Parc de Princes"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37184,
+    "MatchDateTime": "2016-06-15T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-15T19:00:00Z",
+    "Team1": {
+      "TeamId": 144,
+      "TeamName": "Frankreich",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2889,
+      "TeamName": "Albanien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/200px-Flag_of_Albania.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T09:24:44.39",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 381,
+      "LocationCity": "Marseille",
+      "LocationStadium": "Stade Vélodrome"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37185,
+    "MatchDateTime": "2016-06-19T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-19T19:00:00Z",
+    "Team1": {
+      "TeamId": 38,
+      "TeamName": "Schweiz",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg/23px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png"
+    },
+    "Team2": {
+      "TeamId": 144,
+      "TeamName": "Frankreich",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:39:48.2",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1065,
+      "LocationCity": "Lille",
+      "LocationStadium": "Stade Pierre-Mauroy"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37186,
+    "MatchDateTime": "2016-06-19T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-19T19:00:00Z",
+    "Team1": {
+      "TeamId": 143,
+      "TeamName": "Rumänien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/200px-Flag_of_Romania.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2889,
+      "TeamName": "Albanien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/200px-Flag_of_Albania.svg.png"
+    },
+    "LastUpdateDateTime": "2016-05-17T15:36:05.873",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1040,
+      "LocationCity": "Lyon",
+      "LocationStadium": "Stade de Lyon"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37187,
+    "MatchDateTime": "2016-06-11T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-11T16:00:00Z",
+    "Team1": {
+      "TeamId": 2939,
+      "TeamName": "Wales",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png\r\n"
+    },
+    "Team2": {
+      "TeamId": 763,
+      "TeamName": "Slowakei",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/20px-Flag_of_Slovakia.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:11:19.547",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1059,
+      "LocationCity": "Bordeaux",
+      "LocationStadium": "Stade de Bordeaux"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37188,
+    "MatchDateTime": "2016-06-11T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-11T19:00:00Z",
+    "Team1": {
+      "TeamId": 755,
+      "TeamName": "England",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/18px-Flag_of_England.svg.png"
+    },
+    "Team2": {
+      "TeamId": 150,
+      "TeamName": "Russland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:28:34.55",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 381,
+      "LocationCity": "Marseille",
+      "LocationStadium": "Stade Vélodrome"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37189,
+    "MatchDateTime": "2016-06-15T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-15T13:00:00Z",
+    "Team1": {
+      "TeamId": 150,
+      "TeamName": "Russland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png"
+    },
+    "Team2": {
+      "TeamId": 763,
+      "TeamName": "Slowakei",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/20px-Flag_of_Slovakia.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:38:11.55",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1065,
+      "LocationCity": "Lille",
+      "LocationStadium": "Stade Pierre-Mauroy"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37190,
+    "MatchDateTime": "2016-06-16T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-16T13:00:00Z",
+    "Team1": {
+      "TeamId": 755,
+      "TeamName": "England",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/18px-Flag_of_England.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2939,
+      "TeamName": "Wales",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png\r\n"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:36:16.227",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1015,
+      "LocationCity": "Lens",
+      "LocationStadium": "Stade Bollaert-Delelis"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37191,
+    "MatchDateTime": "2016-06-20T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-20T19:00:00Z",
+    "Team1": {
+      "TeamId": 763,
+      "TeamName": "Slowakei",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/20px-Flag_of_Slovakia.svg.png"
+    },
+    "Team2": {
+      "TeamId": 755,
+      "TeamName": "England",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/18px-Flag_of_England.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:30:42.373",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1022,
+      "LocationCity": "Saint-Étienne",
+      "LocationStadium": "Stade Geoffroy-Guichard"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37192,
+    "MatchDateTime": "2016-06-20T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-20T19:00:00Z",
+    "Team1": {
+      "TeamId": 150,
+      "TeamName": "Russland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2939,
+      "TeamName": "Wales",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png\r\n"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:12:43.2",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1061,
+      "LocationCity": "Toulouse",
+      "LocationStadium": "Stade de Toulouse"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37193,
+    "MatchDateTime": "2016-06-12T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-12T16:00:00Z",
+    "Team1": {
+      "TeamId": 1410,
+      "TeamName": "Polen",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2920,
+      "TeamName": "Nordirland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/23px-Flag_of_Northern_Ireland.svg.png\r\n"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:03:29.9",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1054,
+      "LocationCity": "Nizza",
+      "LocationStadium": "Stade de Nice"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37194,
+    "MatchDateTime": "2016-06-12T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-12T19:00:00Z",
+    "Team1": {
+      "TeamId": 139,
+      "TeamName": "Deutschland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2004,
+      "TeamName": "Ukraine",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/20px-Flag_of_Ukraine.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:38:28.377",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1065,
+      "LocationCity": "Lille",
+      "LocationStadium": "Stade Pierre-Mauroy"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37195,
+    "MatchDateTime": "2016-06-16T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-16T16:00:00Z",
+    "Team1": {
+      "TeamId": 2004,
+      "TeamName": "Ukraine",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/20px-Flag_of_Ukraine.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2920,
+      "TeamName": "Nordirland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/23px-Flag_of_Northern_Ireland.svg.png\r\n"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:04:58.47",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1040,
+      "LocationCity": "Lyon",
+      "LocationStadium": "Stade de Lyon"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37196,
+    "MatchDateTime": "2016-06-16T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-16T19:00:00Z",
+    "Team1": {
+      "TeamId": 139,
+      "TeamName": "Deutschland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png"
+    },
+    "Team2": {
+      "TeamId": 1410,
+      "TeamName": "Polen",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:43:05.397",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1020,
+      "LocationCity": "Saint-Denis",
+      "LocationStadium": "Stade de France"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37197,
+    "MatchDateTime": "2016-06-21T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-21T16:00:00Z",
+    "Team1": {
+      "TeamId": 2004,
+      "TeamName": "Ukraine",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/20px-Flag_of_Ukraine.svg.png"
+    },
+    "Team2": {
+      "TeamId": 1410,
+      "TeamName": "Polen",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:28:24.3",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 381,
+      "LocationCity": "Marseille",
+      "LocationStadium": "Stade Vélodrome"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37198,
+    "MatchDateTime": "2016-06-21T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-21T16:00:00Z",
+    "Team1": {
+      "TeamId": 2920,
+      "TeamName": "Nordirland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Northern_Ireland.svg/23px-Flag_of_Northern_Ireland.svg.png\r\n"
+    },
+    "Team2": {
+      "TeamId": 139,
+      "TeamName": "Deutschland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:05:39.23",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1038,
+      "LocationCity": "Paris",
+      "LocationStadium": "Parc de Princes"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37199,
+    "MatchDateTime": "2016-06-12T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-12T13:00:00Z",
+    "Team1": {
+      "TeamId": 153,
+      "TeamName": "Türkei",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/200px-Flag_of_Turkey.svg.png"
+    },
+    "Team2": {
+      "TeamId": 146,
+      "TeamName": "Kroatien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:05:59.127",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1038,
+      "LocationCity": "Paris",
+      "LocationStadium": "Parc de Princes"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37200,
+    "MatchDateTime": "2016-06-13T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-13T13:00:00Z",
+    "Team1": {
+      "TeamId": 170,
+      "TeamName": "Spanien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png"
+    },
+    "Team2": {
+      "TeamId": 141,
+      "TeamName": "Tschechien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/200px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:41:03.493",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1061,
+      "LocationCity": "Toulouse",
+      "LocationStadium": "Stade de Toulouse"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37201,
+    "MatchDateTime": "2016-06-17T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-17T16:00:00Z",
+    "Team1": {
+      "TeamId": 141,
+      "TeamName": "Tschechien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/200px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    "Team2": {
+      "TeamId": 146,
+      "TeamName": "Kroatien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:30:12.587",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1022,
+      "LocationCity": "Saint-Étienne",
+      "LocationStadium": "Stade Geoffroy-Guichard"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37202,
+    "MatchDateTime": "2016-06-17T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-17T19:00:00Z",
+    "Team1": {
+      "TeamId": 170,
+      "TeamName": "Spanien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png"
+    },
+    "Team2": {
+      "TeamId": 153,
+      "TeamName": "Türkei",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/200px-Flag_of_Turkey.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:07:07.73",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1054,
+      "LocationCity": "Nizza",
+      "LocationStadium": "Stade de Nice"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37203,
+    "MatchDateTime": "2016-06-21T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-21T19:00:00Z",
+    "Team1": {
+      "TeamId": 146,
+      "TeamName": "Kroatien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png"
+    },
+    "Team2": {
+      "TeamId": 170,
+      "TeamName": "Spanien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:07:30.087",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1059,
+      "LocationCity": "Bordeaux",
+      "LocationStadium": "Stade de Bordeaux"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37204,
+    "MatchDateTime": "2016-06-21T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-21T19:00:00Z",
+    "Team1": {
+      "TeamId": 141,
+      "TeamName": "Tschechien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/200px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    "Team2": {
+      "TeamId": 153,
+      "TeamName": "Türkei",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/200px-Flag_of_Turkey.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:36:48.907",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1015,
+      "LocationCity": "Lens",
+      "LocationStadium": "Stade Bollaert-Delelis"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37205,
+    "MatchDateTime": "2016-06-13T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-13T16:00:00Z",
+    "Team1": {
+      "TeamId": 2003,
+      "TeamName": "Irland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png"
+    },
+    "Team2": {
+      "TeamId": 151,
+      "TeamName": "Schweden",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/200px-Flag_of_Sweden.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:43:20.693",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1020,
+      "LocationCity": "Saint-Denis",
+      "LocationStadium": "Stade de France"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37206,
+    "MatchDateTime": "2016-06-13T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-13T19:00:00Z",
+    "Team1": {
+      "TeamId": 2673,
+      "TeamName": "Belgien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png"
+    },
+    "Team2": {
+      "TeamId": 145,
+      "TeamName": "Italien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:08:14.773",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1040,
+      "LocationCity": "Lyon",
+      "LocationStadium": "Stade de Lyon"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37207,
+    "MatchDateTime": "2016-06-17T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-17T13:00:00Z",
+    "Team1": {
+      "TeamId": 145,
+      "TeamName": "Italien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png"
+    },
+    "Team2": {
+      "TeamId": 151,
+      "TeamName": "Schweden",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/200px-Flag_of_Sweden.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:08:31.007",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1061,
+      "LocationCity": "Toulouse",
+      "LocationStadium": "Stade de Toulouse"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37208,
+    "MatchDateTime": "2016-06-18T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-18T13:00:00Z",
+    "Team1": {
+      "TeamId": 2673,
+      "TeamName": "Belgien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2003,
+      "TeamName": "Irland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:08:42.887",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1059,
+      "LocationCity": "Bordeaux",
+      "LocationStadium": "Stade de Bordeaux"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37209,
+    "MatchDateTime": "2016-06-22T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-22T19:00:00Z",
+    "Team1": {
+      "TeamId": 145,
+      "TeamName": "Italien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2003,
+      "TeamName": "Irland",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:38:44.837",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1065,
+      "LocationCity": "Lille",
+      "LocationStadium": "Stade Pierre-Mauroy"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37210,
+    "MatchDateTime": "2016-06-22T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-22T19:00:00Z",
+    "Team1": {
+      "TeamId": 151,
+      "TeamName": "Schweden",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/200px-Flag_of_Sweden.svg.png"
+    },
+    "Team2": {
+      "TeamId": 2673,
+      "TeamName": "Belgien",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:09:15.223",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1054,
+      "LocationCity": "Nizza",
+      "LocationStadium": "Stade de Nice"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37211,
+    "MatchDateTime": "2016-06-14T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-14T16:00:00Z",
+    "Team1": {
+      "TeamId": 37,
+      "TeamName": "Österreich",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/200px-Flag_of_Austria.svg.png"
+    },
+    "Team2": {
+      "TeamId": 1395,
+      "TeamName": "Ungarn",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:48:53.337",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1059,
+      "LocationCity": "Bordeaux",
+      "LocationStadium": "Stade de Bordeaux"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37212,
+    "MatchDateTime": "2016-06-14T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-14T19:00:00Z",
+    "Team1": {
+      "TeamId": 149,
+      "TeamName": "Portugal",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png"
+    },
+    "Team2": {
+      "TeamId": 1394,
+      "TeamName": "Island",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/200px-Flag_of_Iceland.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:10:08.097",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1022,
+      "LocationCity": "Saint-Étienne",
+      "LocationStadium": "Stade Geoffroy-Guichard"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37213,
+    "MatchDateTime": "2016-06-18T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-18T16:00:00Z",
+    "Team1": {
+      "TeamId": 1394,
+      "TeamName": "Island",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/200px-Flag_of_Iceland.svg.png"
+    },
+    "Team2": {
+      "TeamId": 1395,
+      "TeamName": "Ungarn",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:10:22.99",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 381,
+      "LocationCity": "Marseille",
+      "LocationStadium": "Stade Vélodrome"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37214,
+    "MatchDateTime": "2016-06-18T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-18T19:00:00Z",
+    "Team1": {
+      "TeamId": 149,
+      "TeamName": "Portugal",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png"
+    },
+    "Team2": {
+      "TeamId": 37,
+      "TeamName": "Österreich",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/200px-Flag_of_Austria.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:10:32.427",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1038,
+      "LocationCity": "Paris",
+      "LocationStadium": "Parc de Princes"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37215,
+    "MatchDateTime": "2016-06-22T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-22T16:00:00Z",
+    "Team1": {
+      "TeamId": 1395,
+      "TeamName": "Ungarn",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png"
+    },
+    "Team2": {
+      "TeamId": 149,
+      "TeamName": "Portugal",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-03T13:10:42.993",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1040,
+      "LocationCity": "Lyon",
+      "LocationStadium": "Stade de Lyon"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 37216,
+    "MatchDateTime": "2016-06-22T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "MatchDateTimeUTC": "2016-06-22T16:00:00Z",
+    "Team1": {
+      "TeamId": 1394,
+      "TeamName": "Island",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/200px-Flag_of_Iceland.svg.png"
+    },
+    "Team2": {
+      "TeamId": 37,
+      "TeamName": "Österreich",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/200px-Flag_of_Austria.svg.png"
+    },
+    "LastUpdateDateTime": "2016-06-07T08:44:05.71",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1020,
+      "LocationCity": "Saint-Denis",
+      "LocationStadium": "Stade de France"
+    },
+    "NumberOfViewers": null
+  }
+]

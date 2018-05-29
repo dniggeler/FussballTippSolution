@@ -1,0 +1,10 @@
+@model FussballTippApp.Models.DailyWinnerInfoModel
+
+<h3>Rangliste der @(ViewBag.Spieltag.ToString()).Runde</h3>
+
+    <p>
+    Das Email enthält eine HTML-Tabelle. Falls die Rangliste nicht schön formatiert erscheint, 
+    auf Link <a href="http://buli.bhfs.ch/Home/DailyWinners">Tagessieger</a> klicken.
+    </p>
+
+@Html.Partial("_DailyWinnerListerPartial")

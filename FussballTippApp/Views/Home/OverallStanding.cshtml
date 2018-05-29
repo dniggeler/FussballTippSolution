@@ -1,0 +1,27 @@
+﻿@model List<FussballTippApp.Models.RankingInfoModel>
+
+@{
+    ViewBag.Title = "Punktestand";
+}
+
+<h2>Rangliste</h2>
+
+ <table class="MatchLister">
+    <tr>
+        <th>Rang</th>
+        <th>Name</th>
+        <th>#Tipps</th>
+        <th>Avg</th>
+        <th>Total</th>
+    </tr>
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>@m.Rang</td>
+            <td>@m.DisplayName</td>
+            <td>@m.TippCount</td>
+            <td>@String.Format("{0:0.00}",m.PointAvg)</td>
+            <td>@String.Format("{0:0.00}",m.TotalPoints)</td>
+        </tr>
+    }
+</table>

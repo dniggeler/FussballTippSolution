@@ -1,0 +1,50 @@
+﻿@model FussballTippApp.Models.ManageProfileModel
+@{
+    ViewBag.Title = "Manage Profile";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+</hgroup>
+
+<p class="message-success">@ViewBag.StatusMessage</p>
+
+<p>You're logged in as <strong>@User.Identity.Name</strong>.</p>
+<br />
+
+@using (Html.BeginForm("ManageProfile", "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    <fieldset>
+        <legend>Registration Form</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.DisplayName)
+                @Html.TextBoxFor(m => m.DisplayName)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.Email)
+                @Html.TextBoxFor(m => m.Email)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.HasEmailReminder)
+                @Html.CheckBoxFor(m => m.HasEmailReminder)
+            </li>
+        </ol>
+        <input type="submit" value="Save" />
+    </fieldset>
+}
+<!--
+<section id="externalLogins">
+    @Html.Action("RemoveExternalLogins")
+
+    <h3>Add an external login</h3>
+    @Html.Action("ExternalLoginsList", new { ReturnUrl = ViewBag.ReturnUrl })
+</section>
+
+-->
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,210 @@
+﻿@model WMTippApp.Models.SpieltagModel
+
+@{
+    ViewBag.Title = "Tippen";
+}
+
+@section Scripts
+{
+    <script type="text/javascript" language="javascript">
+
+        function JokerErrorHandler(result) {
+            $("#cb" + result.MatchId).prop('checked',false);
+        }
+
+        function JokerSuccessHandler(result) {
+            if (result.Success == true) {
+                $("#avail_jokers").text(result.AvailableJokers);
+            }
+        }
+
+        function SetTippSuccessHandler(result) {
+            if (result.Success == true) {
+                $("#odds" + result.MatchId).text(result.MyOdds);
+            }
+        }
+
+        function MyAjaxRequest(url, data, successHandler, errorHandler)
+        {
+            $.ajax({
+                url: url,
+                type: "POST",
+                context: this,
+                data: data,
+                dataType: 'json',
+                success: function (result) {
+                    $('#errorMsg').empty();
+                    if (result.Success == false) {
+                        $('#errorMsg').prepend('<div class="message-error">' + result.Error + '</div>');
+                        if (errorHandler) {
+                            errorHandler(result);
+                        }
+                    }
+                    else {
+                        if (successHandler)
+                        {
+                            successHandler(result);
+                        }
+                    }
+                },
+                error: function (e) {
+                    $('#errorMsg').prepend('<div class="message-error">' + e.statusText + '</div>');
+                    if (errorHandler) {
+                        errorHandler(result);
+                    }
+                }
+            });
+        }
+
+        $(function () {
+            $("input:checkbox[name^=cb]").click(function () {
+                var obj = {};
+                obj.id = this.name.split('cb')[1];
+                obj.isJoker = this.checked;
+                obj.groupId = 1;
+                var jsonData = JSON.parse(JSON.stringify(obj));
+                MyAjaxRequest("/Home/SetJokerTipp", jsonData, JokerSuccessHandler,JokerErrorHandler);
+            });
+
+            $("input:radio[name^=rb]").click(function () {
+                var jsonData = JSON.parse(this.value);
+
+                MyAjaxRequest("/Home/SetMatchTipp", jsonData, SetTippSuccessHandler);
+            });
+
+        });
+    </script>
+}
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div style="float:right;">
+        @Html.DropDownList("Spieltag", null, new { onchange = "$(this).closest('form').submit();" })
+    </div>
+    <br style="clear:both" />
+    <h3>@Model.GroupName</h3>
+
+    <table class="MatchLister">
+        <tr>
+            <th>Zeit</th>
+            <th colspan="4">Spiel</th>
+            <th>Res.</th>
+            <th>Quoten</th>
+            <th>1</th>
+            <th>X</th>
+            <th>2</th>
+            <th>Odds</th>
+            <th>Pkt</th>
+        </tr>
+        @foreach (var m in Model.Matchdata)
+        {
+            <tr>
+                <td>@m.KickoffTime.ToString("dd.MM.yyyy HH:mm")</td>
+                <td><img alt="" src="@m.HomeTeamIcon" height="11px"/></td>
+                <td>@m.HomeTeam</td>
+                <td><img alt="" src="@m.AwayTeamIcon" height="11px" /></td>
+                <td>@m.AwayTeam</td>
+                @if (m.HasStarted == true && m.HomeTeamScore > -1 && m.AwayTeamScore > -1)
+                {
+                    <td>@m.HomeTeamScore.ToString() : @m.AwayTeamScore.ToString()</td>
+                }
+                else
+                {
+                    <td>- : -</td>
+                }
+
+                <td>
+                    @if (m.HomeTeamOdds.HasValue && m.DrawOdds.HasValue && m.AwayTeamOdds.HasValue)
+                    {
+                        @(string.Format("{0:0.00} / {1:0.00} / {2:0.00}", m.HomeTeamOdds, m.DrawOdds, m.AwayTeamOdds))
+                    }
+                    else
+                    {
+                        @Html.Raw("- / - / -")
+                    }
+
+                </td>
+
+                @if (m.HasStarted == false && m.IsFinished == false)
+                {
+                    if (m.HomeTeamOdds.HasValue && m.DrawOdds.HasValue && m.AwayTeamOdds.HasValue)
+                    {
+                        <td>
+                            @Html.RadioButton("rb" + m.MatchId.ToString(), "{ " + String.Format("\"id\" : {0}, \"groupId\" : {3}, \"tip\" : \"{1}\", \"odds\" : {2}", m.MatchId, 1, m.HomeTeamOdds, m.GroupId) + " }", (m.MyTip.HasValue) ? (m.MyTip.Value == 1) ? true : false : false)
+                        </td>
+                        <td>
+                            @Html.RadioButton("rb" + m.MatchId.ToString(), "{ " + String.Format("\"id\" : {0}, \"groupId\" : {3}, \"tip\" : \"{1}\", \"odds\" : {2}", m.MatchId, 0, m.DrawOdds, m.GroupId) + " }", (m.MyTip.HasValue) ? (m.MyTip.Value == 0) ? true : false : false)
+                        </td>
+                        <td>
+                            @Html.RadioButton("rb" + m.MatchId.ToString(), "{ " + String.Format("\"id\" : {0}, \"groupId\" : {3}, \"tip\" : \"{1}\", \"odds\" : {2}", m.MatchId, 2, m.AwayTeamOdds, m.GroupId) + " }", (m.MyTip.HasValue) ? (m.MyTip.Value == 2) ? true : false : false)
+                        </td>
+                    }
+                    else
+                    {
+                        if (m.MyTip == 1)
+                        {
+                            <td>@m.MyTip.Value.ToString()</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        }
+                        else if (m.MyTip == 0)
+                        {
+                            <td>&nbsp</td>
+                            <td>X</td>
+                            <td>&nbsp;</td>
+                        }
+                        else if (m.MyTip == 2)
+                        {
+                            <td>&nbsp</td>
+                            <td>&nbsp;</td>
+                            <td>@m.MyTip.Value.ToString()</td>
+                        }
+                        else
+                        {
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        }
+                    }
+                }
+                else
+                {
+                    if (m.MyTip == 1)
+                    {
+                        <td>@m.MyTip.Value.ToString()</td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                    }
+                    else if (m.MyTip == 0)
+                    {
+                        <td>&nbsp</td>
+                        <td>X</td>
+                        <td>&nbsp;</td>
+                    }
+                    else if (m.MyTip == 2)
+                    {
+                        <td>&nbsp</td>
+                        <td>&nbsp;</td>
+                        <td>@m.MyTip.Value.ToString()</td>
+                    }
+                    else
+                    {
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    }
+                }
+
+                <td>
+                    <span id='@("odds" + m.MatchId)'>
+                        @((m.MyOdds.HasValue) ? String.Format("{0:0.00}", m.MyOdds.Value) : "-")
+                    </span>
+                </td>
+                <td>
+                    @((m.MyPoints.HasValue) ? String.Format("{0:0.00}", m.MyPoints.Value) : "-")
+                </td>
+            </tr>
+        }
+
+    </table>
+}

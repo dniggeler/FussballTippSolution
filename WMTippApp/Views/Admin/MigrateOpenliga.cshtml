@@ -1,0 +1,32 @@
+﻿@model WMTippApp.Controllers.MigrationResultModel
+
+@{
+    ViewBag.Title = "Admin - Migration Openliga";
+}
+
+@Html.ValidationSummary()
+
+<h2>Migration Openliga</h2>
+
+<br />
+
+<div>
+    Current League Shortcut: @Html.Raw(Model.CurrentLeagueShortcut)
+</div><div>
+    Current League Season: @Html.Raw(Model.CurrentLeagueSeason)
+</div>
+
+<br />
+
+<div>
+@using (Html.BeginForm("MigrateOpenliga", "Admin", FormMethod.Post))
+{
+    @Html.Label("New League Shortcut")
+    @Html.TextBox("newLeagueShortcut")
+    <br />
+    @Html.Label("New League Season")
+    @Html.TextBox("newLeagueSeason")
+    <br />
+    <button type="submit" value="Generate">Migrate</button>
+}
+</div>

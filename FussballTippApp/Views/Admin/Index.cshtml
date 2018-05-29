@@ -1,0 +1,35 @@
+﻿@model FussballTippApp.Models.DailyWinnerInfoModel
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<div style="display:none;">
+@using (Html.BeginForm("Generate", "Admin", FormMethod.Post))
+{
+    <button type="submit" value="Generate">Generate Data</button>
+}
+</div>
+
+<div style="display:none;">
+@using (Html.BeginForm("Clear", "Admin", FormMethod.Post))
+{
+    <button type="submit" value="Clear">Clear Data</button>
+}
+</div>
+
+<div>
+@using (Html.BeginForm("Index", "Admin", FormMethod.Post))
+{
+
+    <div style="float:right;">
+        @Html.DropDownList("Spieltag", null, new { onchange = "$(this).closest('form').submit();" })
+    </div>
+    <br style="clear:both" />
+    
+    @Html.Partial("_DailyWinnerListerPartial")
+
+}
+</div>

@@ -1,0 +1,31 @@
+﻿@model FussballTippApp.Models.EmailReminderInfoModel
+
+@{
+    ViewBag.Title = "Email Reminder";
+}
+
+<h2>Email Reminder</h2>
+
+<br />
+
+<h3>Next match: @(String.Format("{0} - {1}, {2}", Model.HomeTeam, Model.AwayTeam, Model.KickoffTime));</h3>
+
+<table>
+<tr>
+    <th>User</th><th>Needs Reminder</th><th>&nbsp;</th>
+</tr>
+@foreach (var kp in Model.EmailReminderDict)
+{
+    <tr>
+        <td>@kp.Key</td><td>@kp.Value</td>
+        @if (kp.Value.HasValue == false)
+        {
+        <td>off</td>
+        }
+        else {
+        <td>@Html.ActionLink("Send Reminder", "Send", new { user = @kp.Key })</td>
+        }
+    </tr>
+}
+
+</table>

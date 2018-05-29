@@ -1,0 +1,939 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>EM 2016 Spielplan » alle Spiele, Termine und Wettquoten </title>
+<link rel="pingback" href="http://www.wettfreunde.net/xmlrpc.php" />
+<meta name="description" content="Alle 51 Spiele der Fußball EM 2016 im Überblick → Spielplan, Termine, Anstoßzeiten und die besten Sportwetten sowie Buchmacher Quoten der EURO 2016"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.wettfreunde.net/em-2016-spielplan/" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="EM 2016 Spielplan » alle Spiele, Termine und Wettquoten" />
+<meta property="og:description" content="Alle 51 Spiele der Fußball EM 2016 im Überblick → Spielplan, Termine, Anstoßzeiten und die besten Sportwetten sowie Buchmacher Quoten der EURO 2016" />
+<meta property="og:url" content="http://www.wettfreunde.net/em-2016-spielplan/" />
+<meta property="og:site_name" content="wettfreunde.net" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/europameister-quoten-mybet.png" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielplan-frankreich-deutschland.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/08/info_64x64.png" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-gruppe-c.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fussball-polen.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fussball-ukraine.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fussball-nordirland.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielorte.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fan-deutschland-250x250.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/08/zoom_64x64.png" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/Spielplan-wettfreunde-714x1024.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-deutschland-joachim-loew.jpg" />
+<meta property="og:image" content="http://www.wettfreunde.net/wp-content/uploads/2015/06/sk11-patzelt_avatar_1433699933.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Alle 51 Spiele der Fußball EM 2016 im Überblick → Spielplan, Termine, Anstoßzeiten und die besten Sportwetten sowie Buchmacher Quoten der EURO 2016" />
+<meta name="twitter:title" content="EM 2016 Spielplan » alle Spiele, Termine und Wettquoten" />
+<meta name="twitter:image" content="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" />
+<meta name="twitter:creator" content="@Heinz_Patzelt" />
+<link rel="alternate" type="application/rss+xml" title="wettfreunde.net &raquo; Feed" href="http://www.wettfreunde.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="wettfreunde.net &raquo; Kommentar-Feed" href="http://www.wettfreunde.net/comments/feed/" />
+<link rel='stylesheet' id='et_monarch-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<!--[if !IE]><!-->
+<link rel="stylesheet" type="text/css" href="//www.wettfreunde.net/wp-content/cache/wpfc-minified/36108c5a13c9f86e7facb37531f671e8/1465054846index.css" media="all"/>
+<!--<![endif]-->
+<script src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/a70a851143270bff650d0f62caa86021/1465054846index.js' type="text/javascript"></script>
+<link rel='https://api.w.org/' href='http://www.wettfreunde.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.wettfreunde.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.wettfreunde.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.2" />
+<link rel='shortlink' href='http://www.wettfreunde.net/?p=55247' />
+<link rel="alternate" type="application/json+oembed" href="http://www.wettfreunde.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wettfreunde.net%2Fem-2016-spielplan%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.wettfreunde.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wettfreunde.net%2Fem-2016-spielplan%2F&#038;format=xml" />
+<style type="text/css" id="et-social-custom-css">
+</style><meta name="viewport" content="width=device-width,initial-scale=1" />
+<style type="text/css">
+#topnav,ul.nav ul a{border:0;font-size:12pt;font-weight:bold;font-family:Calibri,Arial,sans-serif;}
+</style>
+<link rel="icon" href="http://www.wettfreunde.net/wp-content/uploads/2015/10/cropped-wettfreunde-favicon-01-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.wettfreunde.net/wp-content/uploads/2015/10/cropped-wettfreunde-favicon-01-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.wettfreunde.net/wp-content/uploads/2015/10/cropped-wettfreunde-favicon-01-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.wettfreunde.net/wp-content/uploads/2015/10/cropped-wettfreunde-favicon-01-270x270.png" />
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-15315024-1', 'auto'); ga('send', 'pageview');</script>
+</head>
+<body class="page page-id-55247 page-template-default et_monarch sn-c bodybg20">
+<div id="outer-wrap">
+<div id="topnav">
+<div class="limit clearfix">
+<ul class="nav">
+<li id="menu-item-24797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-24797"><a href="http://www.wettfreunde.net/">Home</a></li>
+<li id="menu-item-24798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24798"><a href="http://www.wettfreunde.net/wettanbieter-test/">Wettanbieter Test</a></li>
+<li id="menu-item-24799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24799"><a href="http://www.wettfreunde.net/sportwetten-bonus/">Wettbonus Vergleich</a></li>
+<li id="menu-item-24800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24800"><a href="http://www.wettfreunde.net/wettfreunde-news/">Wettfreunde Tipps</a></li>
+<li id="menu-item-41464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41464"><a href="http://www.wettfreunde.net/ueber-uns/">Über uns</a></li>
+</ul>
+<div class="sub-icons">
+<ul class="clearfix">
+<li><a class="subicon rss" title="Subscribe via RSS Feed" href="http://www.wettfreunde.net/feed/">RSS Feed</a></li>
+<li><a class="subicon facebook" title="Folge Wettfreunde.net auf Facebook" rel="external" href="http://www.facebook.com/wettfreunde.net">Facebook</a></li>
+<li><a class="subicon twitter" rel="external" title="Folge Wettfreunde.net auf Twitter" href="http://www.twitter.com/wettfreunde">Twitter</a></li>
+<li><a class="subicon gplus" title="Folge Wettfreunde.net auf Google+" rel="publisher" href="https://plus.google.com/+wettfreunde/">Google</a></li>
+</ul></div></div></div><div id="header" class="clearfix">
+<div id="head-content" class="clearfix">
+<div id="sitetitle"> <a href="http://www.wettfreunde.net" title="wettfreunde.net"><img src="http://www.wettfreunde.net/wp-content/uploads/2015/05/header-wettfreunde.jpg" alt="wettfreunde.net" /></a></div></div></div><div id="wrap">
+<div id="page" class="clearfix">
+<div class="page-border clearfix">
+<div id="contentleft" class="clearfix">
+<div id="content" class="clearfix">
+<div class="singlepage clearfix post-55247 page type-page status-publish hentry" id="single-page-55247">
+<div class="entry">
+<h1 class="page-title">EM 2016 Spielplan » alle Spiele, Termine und Wettquoten</h1>
+<h2>Alle 51 Spiele der Fußball EM 2016 inklusive der Spieltermine und Spielzeiten sowie der jeweils besten Quoten im Vergleich der Wettanbieter:</h2>
+<p>&nbsp;</p>
+<table border="0">
+<tbody>
+<tr>
+<td><img class=" size-full wp-image-8260" src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" alt="tipp" width="49" height="22" border="0" /></td>
+<td><span style="font-size: medium;">→ <a href="http://www.wettfreunde.net/wetten/interwetten"><strong>Deutschland wird Europameister – beste Quote 4,50 bei Interwetten</strong></a></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div style="width: 100%x; overflow-x: auto; overflow-y: hidden;">
+<table style="width: 100%;" border="0">
+<tbody>
+<tr style="background-color: #5a7d94;">
+<td colspan="5"><span style="color: #ffffff; font-size: medium;"><strong>EM 2016 Vorrunde/Gruppenphase<br />
+von 10. bis 22.06.2016</strong></span></td>
+<td style="text-align: center;" colspan="3"><span style="color: #ffffff; font-size: medium;"><strong>beste Wettquote</strong></span></td>
+</tr>
+<tr style="background-color: #5a7d94;">
+<td><span style="color: #ffffff;"></span></td>
+<td><span style="color: #ffffff;"><span style="font-size: 12px;">G</span></span></td>
+<td><span style="color: #ffffff;">Team 1</span></td>
+<td><span style="color: #ffffff;">Team 2</span></td>
+<td><span style="color: #ffffff;">Ergebnis</span></td>
+<td style="text-align: center;"><span style="color: #ffffff;">Team 1</span></td>
+<td style="text-align: center;"><span style="color: #ffffff;">Remis</span></td>
+<td style="text-align: center;"><span style="color: #ffffff;">Team 2</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">10.6. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-a/"><span style="font-size: 12px;">A</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-frankreich/">Frankreich</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-rumaenien/">Rumänien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-frankreich-rumaenien-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Frankreich - Rumänien bei der EM 2016" alt="Button Tipp Frankreich - Rumänien EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,32</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>5,50</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>15,0</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">11.6. 15:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-a/"><span style="font-size: 12px;">A</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-albanien/">Albanien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-die-schweiz/">Schweiz</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-albanien-schweiz-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Albanien - Schweiz bei der EM 2016" alt="Button Tipp Albanien - Schweiz EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>5,70</strong></span><br /> <a href="http://www.wettfreunde.net/mybet/">Mybet</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,70</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,85</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">11.6. 18:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-b/"><span style="font-size: 12px;">B</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-wales/">Wales</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-die-slowakei/">Slowakei</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-wales-slowakei-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Wales - Slowakei bei der EM 2016" alt="Button Tipp Wales - Slowakei EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,80</strong></span><br /> <a href="http://www.wettfreunde.net/betway/">Betway</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,20</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,00</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">11.6. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-b/"><span style="font-size: 12px;">B</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-england/">England</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-russland/">Russland</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-england-russland-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel England - Russland bei der EM 2016" alt="Button Tipp England - Russland EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,95</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,55</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,80</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">12.6. 15:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-d/"><span style="font-size: 12px;">D</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-die-tuerkei/">Türkei</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-kroatien/">Kroatien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-tuerkei-kroatien-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Türkei - Kroatien bei der EM 2016" alt="Button Tipp Türkei - Kroatien EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,80</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,35</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,20</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">12.6. 18:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-c/"><span style="font-size: 12px;">C</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-polen/">Polen</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-nordirland/">Nordirland</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-polen-nordirland-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Polen - Nordirland bei der EM 2016" alt="Button Tipp Polen - Nordirland EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,85</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,60</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>5,25</strong></span><br /> <a href="http://www.wettfreunde.net/comeon/">ComeOn</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">12.6. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-c/"><span style="font-size: 12px;">C</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-deutschland/">Deutschland</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-die-ukraine/">Ukraine</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-deutschland-ukraine-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Deutschland - Ukraine bei der EM 2016" alt="Button Tipp Deutschland - Ukraine EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,55</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,30</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>7,50</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">13.6. 15:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-d/"><span style="font-size: 12px;">D</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-spanien/">Spanien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-tschechien/">Tschechien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-spanien-tschechien-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Spanien - Tschechien bei der EM 2016" alt="Button Tipp Spanien - Tschechien EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,55</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,00</strong></span><br /> <a href="http://www.wettfreunde.net/betsafe/">Betsafe</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>7,50</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">13.6. 18:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-e/"><span style="font-size: 12px;">E</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-irland/">Irland</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-schweden/">Schweden</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-irland-schweden-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Irland - Schweden bei der EM 2016" alt="Button Tipp Irland - Schweden EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,10</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,20</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,50</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">13.6. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-e/"><span style="font-size: 12px;">E</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-belgien/">Belgien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-italien/">Italien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-belgien-italien-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Belgien - Italien bei der EM 2016" alt="Button Tipp Belgien - Italien EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,60</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,25</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,10</strong></span><br /> <a href="http://www.wettfreunde.net/comeon/">ComeOn</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">14.6. 18:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-f/"><span style="font-size: 12px;">F</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-oesterreich/">Österreich</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-ungarn/">Ungarn</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-oesterreich-ungarn-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Österreich - Ungarn bei der EM 2016" alt="Button Tipp Österreich - Ungarn EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,90</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,60</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,75</strong></span><br /> <a href="http://www.wettfreunde.net/comeon/">ComeOn</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">14.6. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-f/"><span style="font-size: 12px;">F</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-portugal/">Portugal</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-island/">Island</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-portugal-island-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Portugal - Island bei der EM 2016" alt="Button Tipp Portugal - Island EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,71</strong></span><br /> <a href="http://www.wettfreunde.net/betsafe/">Betsafe</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,70</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>6,50</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">15.6. 15:00</span></td>
+<td><span style="font-size: 12px;">B</span></td>
+<td><span style="font-size: 12px;">Russland</span></td>
+<td><span style="font-size: 12px;">Slowakei</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,83</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,60</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>5,00</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">15.6. 18:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-a/"><span style="font-size: 12px;">A</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-rumaenien/">Rumänien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-die-schweiz/">Schweiz</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-rumaenien-schweiz-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Rumänien - Schweiz bei der EM 2016" alt="Button Tipp Rumänien - Schweiz EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,30</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,40</strong></span><br /> <a href="http://www.wettfreunde.net/comeon/">ComeOn</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,00</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">15.06. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-a/"><span style="font-size: 12px;">A</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-frankreich/">Frankreich</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-albanien/">Albanien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-frankreich-albanien-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Frankreich - Albanien bei der EM 2016" alt="Button Tipp Frankreich - Albanien EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,22</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>6,75</strong></span><br /> <a href="http://www.wettfreunde.net/betsafe/">Betsafe</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>15,5</strong></span><br /> <a href="http://www.wettfreunde.net/betsafe/">Betsafe</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">16.6. 15:00</span></td>
+<td><span style="font-size: 12px;">B</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-england/">England</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-wales/">Wales</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-england-wales-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel England - Wales bei der EM 2016" alt="Button Tipp England - Wales EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,85</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,60</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>6,00</strong></span><br /> <a href="http://www.wettfreunde.net/betway/">Betway</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">16.6. 18:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-c/"><span style="font-size: 12px;">C</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-die-ukraine/">Ukraine</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-nordirland/">Nordirland</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-ukraine-nordirland-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Ukraine - Nordirland bei der EM 2016" alt="Button Tipp Ukraine - Nordirland EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,00</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,40</strong></span><br /> <a href="http://www.wettfreunde.net/comeon/">ComeOn</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,20</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">16.06. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-c/"><span style="font-size: 12px;">C</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-deutschland/">Deutschland</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-polen/">Polen</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-deutschland-polen-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Deutschland - Polen bei der EM 2016" alt="Button Tipp Deutschland - Polen EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,66</strong></span><br /> <a href="http://www.wettfreunde.net/bet365/">Bet365</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,20</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>6,50</strong></span><br /> <a href="http://www.wettfreunde.net/betsafe/">Betsafe</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">17.6. 15:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-e/"><span style="font-size: 12px;">E</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-italien/">Italien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-schweden/">Schweden</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-italien-schweden-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Italien - Schweden bei der EM 2016" alt="Button Tipp Italien - Schweden EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,00</strong></span><br /> <a href="http://www.wettfreunde.net/bwin/">Bwin</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,50</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,50</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">17.6. 18:00</span></td>
+<td><span style="font-size: 12px;">D</span></td>
+<td><span style="font-size: 12px;">Tschechien</span></td>
+<td><span style="font-size: 12px;">Kroatien</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,20</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,40</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,50</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">17.6. 21:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-d/"><span style="font-size: 12px;">D</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-spanien/">Spanien</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-die-tuerkei/">Türkei</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-spanien-tuerkei-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Spanien - Türkei bei der EM 2016" alt="Button Tipp Spanien - Türkei EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,60</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,30</strong></span><br /> <a href="http://www.wettfreunde.net/expekt/">Expekt</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>7,50</strong></span><br /> <a href="http://www.wettfreunde.net/bet3000/">Bet3000</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">18.6. 15:00</span></td>
+<td><span style="font-size: 12px;">E</span></td>
+<td><span style="font-size: 12px;">Belgien</span></td>
+<td><span style="font-size: 12px;">Irland</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,66</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,05</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>5,65</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">18.6. 18:00</span></td>
+<td><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-f/"><span style="font-size: 12px;">F</span></a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-island/">Island</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-ungarn/">Ungarn</a></td>
+<td><a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-island-ungarn-wettquoten/"><img src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" title="Tipp und Wettquoten Vergleich zum Spiel Island - Ungarn bei der EM 2016" alt="Button Tipp Island - Ungarn EM 2016" width="49" height="22" class="alignnone size-full wp-image-8260" /></a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,40</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,30</strong></span><br /> <a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,40</strong></span><br /> <a href="http://www.wettfreunde.net/tipico/">Tipico</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">18.6. 21:00</span></td>
+<td><span style="font-size: 12px;">F</span></td>
+<td><span style="font-size: 12px;">Portugal</span></td>
+<td><span style="font-size: 12px;">Österreich</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,30</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,30</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,30</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">19.6. 21:00</span></td>
+<td><span style="font-size: 12px;">A</span></td>
+<td><span style="font-size: 12px;">Rumänien</span></td>
+<td><span style="font-size: 12px;">Albanien</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,00</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,50</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,30</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">19.6. 21:00</span></td>
+<td><span style="font-size: 12px;">A</span></td>
+<td><span style="font-size: 12px;">Schweiz</span></td>
+<td><span style="font-size: 12px;">Frankreich</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,70</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,45</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,00</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">20.6. 21:00</span></td>
+<td><span style="font-size: 12px;">B</span></td>
+<td><span style="font-size: 12px;">Slowakei</span></td>
+<td><span style="font-size: 12px;">England</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>6,30</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,20</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,55</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">20.6. 21:00</span></td>
+<td><span style="font-size: 12px;">B</span></td>
+<td><span style="font-size: 12px;">Russland</span></td>
+<td><span style="font-size: 12px;">Wales</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,30</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,30</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,40</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">21.06. 18:00</span></td>
+<td><span style="font-size: 12px;">C</span></td>
+<td><span style="font-size: 12px;">Ukraine</span></td>
+<td><span style="font-size: 12px;">Polen</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,00</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,30</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,60</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">21.6. 18:00</span></td>
+<td><span style="font-size: 12px;">C</span></td>
+<td><span style="font-size: 12px;">Nordirland</span></td>
+<td><span style="font-size: 12px;">Deutschland</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>14,0</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>6,20</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,28</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">21.6. 21:00</span></td>
+<td><span style="font-size: 12px;">D</span></td>
+<td><span style="font-size: 12px;">Tschechien</span></td>
+<td><span style="font-size: 12px;">Türkei</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,60</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,30</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,90</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">21.6. 21:00</span></td>
+<td><span style="font-size: 12px;">D</span></td>
+<td><span style="font-size: 12px;">Kroatien</span></td>
+<td><span style="font-size: 12px;">Spanien</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,10</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,40</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,10</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">22.6. 18:00</span></td>
+<td><span style="font-size: 12px;">F</span></td>
+<td><span style="font-size: 12px;">Island</span></td>
+<td><span style="font-size: 12px;">Österreich</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,85</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,50</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>2,10</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">22.6. 18:00</span></td>
+<td><span style="font-size: 12px;">F</span></td>
+<td><span style="font-size: 12px;">Ungarn</span></td>
+<td><span style="font-size: 12px;">Portugal</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>6,00</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>4,20</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,60</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">22.6. 21:00</span></td>
+<td><span style="font-size: 12px;">E</span></td>
+<td><span style="font-size: 12px;">Italien</span></td>
+<td><span style="font-size: 12px;">Irland</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,75</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,70</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>5,10</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: 12px;">22.6. 21:00</span></td>
+<td><span style="font-size: 12px;">E</span></td>
+<td><span style="font-size: 12px;">Schweden</span></td>
+<td><span style="font-size: 12px;">Belgien</span></td>
+<td></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>5,95</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>3,60</strong></span></td>
+<td  style="text-align: center;"><span style="color: #006400;"><strong>1,75</strong></span></td>
+</tr>
+</tbody>
+</table></div><p>&nbsp;</p>
+<div style="width: 100%x; overflow-x: auto; overflow-y: hidden;">
+<table style="width: 100%;" border="0">
+<tbody>
+<tr style="background-color: #5a7d94;">
+<td colspan="5"><span style="color: #ffffff; font-size: medium;"><strong>EM 2016 Achtelfinale<br />
+von 25. bis 27.06.2016</strong></span></td>
+<td style="text-align: center;" colspan="3"><span style="color: #ffffff; font-size: medium;"><strong>beste Wettquote</strong></span></td>
+</tr>
+<tr style="background-color: #5a7d94;">
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Anstoß</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Ort</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 2</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Erg</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Remis</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 2</span></span></td>
+</tr>
+<tr>
+<td style="text-align: center;">25.06. 15:00</td>
+<td>St. Etienne</td>
+<td>Zweiter A</td>
+<td>Zweiter C</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">25.06. 18:00</td>
+<td>Paris</td>
+<td>Sieger B</td>
+<td>Dritter A/C/D</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">25.06. 21:00</td>
+<td>Lens</td>
+<td>Sieger D</td>
+<td>Dritter B/E/F</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">26.06. 15:00</td>
+<td>Lyon</td>
+<td>Sieger A</td>
+<td>Dritter C/D/E</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">26.06. 18:00</td>
+<td>Lille</td>
+<td>Sieger C</td>
+<td>Dritter A/B/F</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">26.06. 21:00</td>
+<td>Toulouse</td>
+<td>Sieger F</td>
+<td>Zweiter E</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">27.06. 18:00</td>
+<td>St. Denis</td>
+<td>Sieger E</td>
+<td>Zweiter D</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">27.06. 21:00</td>
+<td>Nizza</td>
+<td>Zweiter B</td>
+<td>Zweiter F</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div><p>&nbsp;</p>
+<div style="width: 100%x; overflow-x: auto; overflow-y: hidden;">
+<table style="width: 100%;" border="0">
+<tbody>
+<tr style="background-color: #5a7d94;">
+<td colspan="5"><span style="color: #ffffff; font-size: medium;"><strong>EM 2016 Viertelfinale<br />
+von 30.6. bis 3.7.2016</strong></span></td>
+<td style="text-align: center;" colspan="3"><span style="color: #ffffff; font-size: medium;"><strong>beste Wettquote</strong></span></td>
+</tr>
+<tr style="background-color: #5a7d94;">
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Anstoß</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Ort</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 2</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Erg</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Remis</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 2</span></span></td>
+</tr>
+<tr>
+<td style="text-align: center;">30.06. 21:00</td>
+<td>Marseille</td>
+<td>Sieger Achtel 1</td>
+<td>Sieger Achtel 3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">01.07. 21:00</td>
+<td>Lille</td>
+<td>Sieger Achtel 2</td>
+<td>Sieger Achtel 6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">02.07. 21:00</td>
+<td>Bordeaux</td>
+<td>Sieger Achtel 5</td>
+<td>Sieger Achtel 7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">03.07. 21:00</td>
+<td>St. Denis</td>
+<td>Sieger Achtel 4</td>
+<td>Sieger Achtel 8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div><p>&nbsp;</p>
+<div style="width: 100%x; overflow-x: auto; overflow-y: hidden;">
+<table style="width: 100%;" border="0">
+<tbody>
+<tr style="background-color: #5a7d94;">
+<td colspan="5"><span style="color: #ffffff; font-size: medium;"><strong>EM 2016 Halbfinale<br />
+von 6.7. und 7.7.2016</strong></span></td>
+<td style="text-align: center;" colspan="3"><span style="color: #ffffff; font-size: medium;"><strong>beste Wettquote</strong></span></td>
+</tr>
+<tr style="background-color: #5a7d94;">
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Anstoß</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Ort</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 2</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Erg</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Remis</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 2</span></span></td>
+</tr>
+<tr>
+<td style="text-align: center;">06.07. 21:00</td>
+<td>Lyon</td>
+<td>Sieger Viertel 1</td>
+<td>Sieger Viertel 2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">07.07. 21:00</td>
+<td>Marseille</td>
+<td>Sieger Viertel 3</td>
+<td>Sieger Viertel 4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div><p>&nbsp;</p>
+<div style="width: 100%x; overflow-x: auto; overflow-y: hidden;">
+<table style="width: 100%;" border="0">
+<tbody>
+<tr style="background-color: #5a7d94;">
+<td colspan="5"><span style="color: #ffffff; font-size: medium;"><strong>EM 2016 Finale<br />
+Endspiel am 10.7.2016</strong></span></td>
+<td style="text-align: center;" colspan="3"><span style="color: #ffffff; font-size: medium;"><strong>beste Wettquote</strong></span></td>
+</tr>
+<tr style="background-color: #5a7d94;">
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Anstoß</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Ort</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Team 2</span></span></td>
+<td><span style="font-size: 12px;"><span style="color: #ffffff;">Erg</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 1</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Remis</span></span></td>
+<td style="text-align: center;"><span style="font-size: small;"><span style="color: #ffffff;">Team 2</span></span></td>
+</tr>
+<tr>
+<td style="text-align: center;">10.07. 21:00</td>
+<td>St. Denis</td>
+<td>Sieger Halb 1</td>
+<td>Sieger Halb 2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div><p><em>* die besten Wettquoten werden laufend überprüft und bei Änderungen aktualisiert</em></p>
+<p>&nbsp;</p>
+<h4>EM 2016 Quoten &#8211; die Turnierphasen mit ausführlicher Vorschau:</h4>
+<p>→ <a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/">EM 2016 Gruppenphase</a><br />
+→ <a href="http://www.wettfreunde.net/em-2016-quoten/achtelfinale/">EM 2016 Achtelfinale</a><br />
+→ <a href="http://www.wettfreunde.net/em-2016-quoten/viertelfinale/">EM 2016 Viertelfinale</a><br />
+→ <a href="http://www.wettfreunde.net/em-2016-quoten/halbfinale/">EM 2016 Halbfinale</a><br />
+→ <a href="http://www.wettfreunde.net/em-2016-quoten/finale/">EM 2016 Finale</a><br />
+→ <a href="http://www.wettfreunde.net/em-2016-quoten/">Quoten für den Europameister 2016</a></p>
+<p><em>* Mit diesen Links kommen Sie zu unserer umfangreichen Vorschau für jede einzelne Turnierphase sowie zum Wettquoten Vergleich für alle interessanten Wetten rund um die Fußball Europameisterschaft 2016.</em></p>
+<p>Die Quoten werden täglich überprüft und gegebenenfalls aktualisiert &#8211; so behalten Sie stets den Überblick über die besten Quoten für die EURO 2016!</p>
+<p>&nbsp;</p>
+<h5><strong>Tipp: die Europameister Wettquoten von Mybet</strong></h5>
+<p><a href="http://www.wettfreunde.net/wetten/em2016/mybet" rel="attachment wp-att-69161"><img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/europameister-quoten-mybet.png" title="jetzt beim Wettanbieter Mybet auf den Europameister 2016 wetten" alt="Die Wettquoten für den Europameister 2016 von Mybet" width="579" height="334" class="aligncenter size-full wp-image-69161" srcset="http://www.wettfreunde.net/wp-content/uploads/2015/11/europameister-quoten-mybet.png 579w, http://www.wettfreunde.net/wp-content/uploads/2015/11/europameister-quoten-mybet-300x173.png 300w" sizes="(max-width: 579px) 100vw, 579px" /></a></p>
+<p><em><strong>Abbildung oben:</strong> die aktuellen Quoten für den Europameister 2016 beim deutschen Wettanbieter Mybet. Alle weiteren <a href="http://www.wettfreunde.net/mybet/">Infos zu Mybet zeigt unser ausführlicher Testbericht</a></em></p>
+<p>&nbsp;<br />
+<center><a class="button red" href="http://www.wettfreunde.net/wetten/em2016/mybet">jetzt bei Mybet auf die EM 2016 wetten</a></center></p>
+<p>&nbsp;</p>
+<h4>EM in Frankreich – das sind die wichtigsten Infos zum Spielplan</h4>
+<p>Die EM-Qualifikation ist abgeschlossen, 24 stehen als Teilnehmer fest. Auch die Gruppen sind schon ausgelost. Die Fußball-Europameisterschaft 2016 in Frankreich kann losgehen, Beginn ist am 10. Juni um 21 Uhr mit dem Eröffnungsspiel zwischen Frankreich und Rumänien im Stade de France. Lesen Sie hier alles, was Sie sonst noch über den Spielplan wissen müssen.</p>
+<blockquote>
+<ul>
+<li><strong><a href="#spielplan-auslosung">Seit wann steht der Spielplan der Fußball-EM 2016 in Frankreich schon fest?</a></strong></li>
+<li><strong><a href="#spielplan-modus">Wie funktioniert der Modus bei der EM 2016?</a></strong></li>
+<li><strong><a href="#gegner-deutschland">Wer sind die Gegner der deutschen Nationalmannschaft?</a></strong></li>
+<li><strong><a href="#spielorte">An welchen Spielorten wird die EM 2016 ausgetragen?</a></strong></li>
+<li><strong><a href="#spiele-deutschland">Wann und wo werden die Deutschland-Spiele stattfinden?</a></strong></li>
+<li><strong><a href="#ausscheidungsrunden">Wie geht es nach der Vorrunde weiter?</a></strong></li>
+<li><strong><a href="#platz-3">Gibt es bei der EM 2016 ein Spiel um Platz drei?</a></strong></li>
+<li><strong><a href="#spielplan-druckversion">Der komplette EM 2016 Spielplan zum Ausdrucken</a></strong></li>
+<li><strong><a href="#kader-deutschland">Wann wird der deutsche Kader bekanntgegeben?</a></strong></li>
+</ul>
+</blockquote>
+<p>&nbsp;<br />
+<img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielplan-frankreich-deutschland.jpg" alt="EM 2016 Spielplan Frankreich Deutschland" width="700" height="466" class="aligncenter size-full wp-image-60780" srcset="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielplan-frankreich-deutschland.jpg 700w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielplan-frankreich-deutschland-300x200.jpg 300w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielplan-frankreich-deutschland-600x400.jpg 600w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielplan-frankreich-deutschland-450x300.jpg 450w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p><em><strong>Bild:</strong> Frankreich gegen Deutschland wäre für viele ein Traumfinale. Hier duellieren sich Höwedes und Pogba im Viertelfinale der WM 2014. Quelle: 202910539 &#8211; AGIF / Shutterstock.com</em><br />
+<a name="spielplan-auslosung"></a><br />
+&nbsp;</p>
+<h5><strong>Seit wann steht der Spielplan der Fußball-EM 2016 in Frankreich schon fest?</strong></h5>
+<p>Der Spielplan ist seit der Gruppenauslosung am 12. Dezember 2015 in Paris fix. In 51 Spielen soll genau einen Monat lang, zwischen dem Eröffnungsspiel am 10. Juni und dem großen Finale am 10. Juli, der neue Europameister ermittelt werden.<br />
+<a name="spielplan-modus"></a><br />
+&nbsp;</p>
+<h5><strong>Wie funktioniert der Modus bei der EM 2016?</strong></h5>
+<p>Erstmals sind bei einer Europameisterschaft 24 anstatt wie bisher 16 Mannschaften dabei. Deswegen musste natürlich auch der Wettbewerbs-Modus angepasst werden. Statt wie bisher vier Vierer-Gruppen wird es diesmal sechs Vierer-Gruppen geben.<br />
+&nbsp;</p>
+<blockquote><p><img src="http://www.wettfreunde.net/wp-content/uploads/2015/08/info_64x64.png" alt="icon info" width="64" height="64" class="alignleft size-full wp-image-43754" />Außerdem gibt es erstmals ein Achtelfinale. Dafür qualifizieren sich neben den <a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/">sechs Gruppensiegern</a> und den sechs Zweitplatzierten der Vorrunden-Tabellen auch die vier besten Gruppendritten.</p></blockquote>
+<p>&nbsp;<br />
+Insgesamt werden damit nach der Vorrunde also gerade einmal acht der ursprünglichen 24 Teams die vorzeitige Heimreise antreten müssen!<br />
+<a name="gegner-deutschland"></a><br />
+&nbsp;</p>
+<h5><strong>Wer sind die Gegner der deutschen Nationalmannschaft?</strong></h5>
+<p>Die deutsche Nationalmannschaft muss sich <a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/gruppe-c/">in Gruppe C mit Polen, der Ukraine und dem Außenseiter aus Nordirland</a> messen.</p>
+<p><img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-gruppe-c.jpg" alt="EM 2016 Gruppe C" width="423" height="257" class="aligncenter size-full wp-image-60070" srcset="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-gruppe-c.jpg 423w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-gruppe-c-300x182.jpg 300w" sizes="(max-width: 423px) 100vw, 423px" /></p>
+<hr />
+<p><img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fussball-polen.jpg" alt="EM 2016 Fußball Polen" width="100" height="100" class="alignleft size-full wp-image-60785" />Polen ist ein alter Bekannter, schon in der EM-Qualifikation duellierten sich die beiden Nachbarländern, auch bei der EM 2008 und der WM 2006 traf man schon in der Gruppenphase eines großen Turniers aufeinander – bis auf eine Niederlage in der EM-Qualifikation zuletzt immer mit dem besseren Ende für die Deutschen.</p>
+<hr />
+<p><img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fussball-ukraine.jpg" alt="EM 2016 Fußball Ukraine" width="100" height="100" class="alignleft size-full wp-image-60787" />Gegen die Ukraine mussten die Kicker mit dem Adler auf der Brust noch nie bei einem großen Turnier spielen. Unvergessen ist dennoch das Aufeinandertreffen in den Playoffs der Qualifikation zur WM 2002, als das erste Duell unentschieden endete und Deutschland bis zum Rückspiel zittern musste, das dank eines Doppelpacks von Michael Ballack mit 4:1 gewonnen werden konnte.</p>
+<hr />
+<p><img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fussball-nordirland.jpg" alt="EM 2016 Fußball Nordirland" width="100" height="100" class="alignleft size-full wp-image-60788" />Nordirland konnte sich zum ersten für eine Europameisterschaft qualifizieren. Auf Deutschland traf man bei einem großen Turnier aber schon einmal, und zwar bei der WM 1958 in Schweden. Das Aufeinandertreffen in der Vorrunde endete damals 2:2. Gegen die Nordiren muss Deutschland auch in der Qualifikation zur WM 2018 ran. </p>
+<hr />
+<a name="spielorte"></a><br />
+&nbsp;</p>
+<h5><strong>An welchen Spielorten wird die EM 2016 ausgetragen?</strong></h5>
+<p>Die Europameisterschaft 2016 wird in insgesamt zehn verschiedenen Stadien ausgetragen. Die Spielorte sind dieselben wie bei der Weltmeisterschaft 1998, mit zwei Ausnahmen: In Nantes und Montpellier wird diesmal nicht gespielt. Stattdessen wird diesmal in Lille und in Nizza gespielt. Die Spielorte im Überblick:</p>
+<ul>
+<li>Saint-Denis (Stade de France): 81.338 Zuschauer</li>
+<li>Paris (Parc des Princes): 51.000 Zuschauer</li>
+<li>Marseille (Stade Vélodrome): 67.394 Zuschauer</li>
+<li>Lyon/Décines-Charpieu (Stade des Lumières): 58.927 Zuschauer</li>
+<li>Lille/Villeneuve-d’Ascq (Stade Pierre-Mauroy): 50.186 Zuschauer</li>
+<li>Lens (Stade Bolaert-Delelis): 45.000 Zuschauer</li>
+<li>Bordeaux (Nouveau Stade de Bordeaux): 42.052 Zuschauer</li>
+<li>Saint-Étienne (Stade Geoffroy-Guichard): 41.950 Zuschauer</li>
+<li>Toulouse (Stadium Municipal): 41.000 Zuschauer</li>
+<li>Nizza (Stade de Nice): 35.624 Zuschauer</li>
+</ul>
+<p>&nbsp;<br />
+<img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielorte.jpg" alt="EM 2016 Spielorte" width="700" height="719" class="aligncenter size-full wp-image-60796" srcset="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielorte.jpg 700w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-spielorte-292x300.jpg 292w" sizes="(max-width: 700px) 100vw, 700px" /><br />
+<a name="spiele-deutschland"></a><br />
+&nbsp;</p>
+<h5><strong>Wann und wo werden die Deutschland-Spiele stattfinden?</strong></h5>
+<p>Fest stehen bisher natürlich nur die Gruppenspiele der deutschen Mannschaft. Diese sind wie folgt angesetzt:</p>
+<ol>
+<li> Sonntag, 12.6., 21 Uhr: <strong>Deutschland – Ukraine in Lille</strong></li>
+<li> Donnerstag, 16.6., 21 Uhr: <strong>Deutschland – Polen in Saint Denis</strong></li>
+<li> Dienstag, 21.6., 18 Uhr: <strong>Nordirland – Deutschland in Paris</strong></li>
+</ol>
+<p>Dass die Spielorte nicht weit voneinander entfernt und allesamt im Norden des Landes liegen, kommt den Fans sicherlich entgegen – den Planungen der DFB-Verantwortlichen spielt es dagegen nicht unbedingt in die Karten. Das Quartier, welches Teammanager Oliver Bierhoff und seine Mitarbeiter schon im Juni aussuchten, liegt nämlich im Südwesten Frankreichs. </p>
+<p>&nbsp;<br />
+<img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fan-deutschland-250x250.jpg" alt="EM 2016 Fan Deutschland" width="250" height="250" class="alignright size-full wp-image-60799" srcset="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fan-deutschland-250x250.jpg 250w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-fan-deutschland-250x250-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /><strong>Ideale Bedingungen für die DFB-Mannschaft</strong></p>
+<p>Die Nationalmannschaft wird ihre Zelte in Évian-les-Bains nahe Genf aufschlagen. Im Vergleich zur <a href="http://www.wettfreunde.net/wm-2014-spielplan/">WM 2014 in Brasilien</a> sind die Reisestrapazen aber trotzdem überschaubar. </p>
+<p>Was die Anstoßzeiten betrifft werden Fans in Deutschland im Vergleich zur Weltmeisterschaft in Brasilien regelrecht verwöhnt. </p>
+<p>Aufgrund der enormen Zeitverschiebung gab es oft Probleme mit den teils sehr späten Anstoßzeiten. Auch für die Spieler war das kein Zuckerschlecken! </p>
+<p>Die Profis mussten in Brasilien zum Teil zu ungewohnten Anstoßzeiten am Mittag ran, was vor allem an den Spielorten mitten im Regenwald, wo die Luftfeuchtigkeit enorm hoch ist, zu heftigen Strapazen führte. Grund: Die Spiele sollten beim wichtigsten Publikum in Mitteleuropa in den Abendstunden zu sehen sein. In Frankreich wird all das keine Probleme machen.<br />
+<a name="ausscheidungsrunden"></a><br />
+&nbsp;</p>
+<h5><strong>Wie geht es nach der Vorrunde weiter?</strong></h5>
+<p>Sollte Deutschland erwartungsgemäß als Gruppenerster das Achtelfinale erreichen, hießen die weiteren Spielorte Lille (<a href="http://www.wettfreunde.net/em-2016-quoten/achtelfinale/">Achtelfinale</a>), Bordeaux (<a href="http://www.wettfreunde.net/em-2016-quoten/viertelfinale/">Viertelfinale</a>), Marseille (<a href="http://www.wettfreunde.net/em-2016-quoten/halbfinale/">Halbfinale</a>) und Saint Denis (<a href="http://www.wettfreunde.net/em-2016-quoten/finale/">Finale</a>). Unter der Bedingung, dass beide ihre Gruppen gewinnen, könnte schon im Viertelfinale ein Aufeinandertreffen mit Angstgegner Italien erfolgen.<br />
+&nbsp;</p>
+<blockquote><p><img src="http://www.wettfreunde.net/wp-content/uploads/2015/08/zoom_64x64.png" alt="icon zoom" width="64" height="64" class="alignleft size-full wp-image-43755" />Gegen Frankreich müsste die DFB-Elf im Halbfinale ran, wenn beide Mannschaften es so weit schaffen und als Gruppensieger weiterkommen. Die Franzosen gelten gemeinsam mit Jogi Löws Truppe <a href="http://www.wettfreunde.net/em-2016-quoten/">als Top-Favorit beim EM-Turnier</a> im eigenen Land.</p></blockquote>
+<p>&nbsp;<br />
+Werden sowohl Frankreich als auch Deutschland nur Gruppenzweiter, müssen sie sich bereits im Achtelfinale duellieren. Das Traumfinale Frankreich-Deutschland wäre beispielsweise dann möglich, wenn eines der Teams Gruppensieger wird und das andere als Zweiter ins Achtelfinale einzieht.</p>
+<p>&nbsp;</p>
+<table border="0">
+<tbody>
+<tr>
+<td><img class=" size-full wp-image-8260" src="http://www.wettfreunde.net/wp-content/uploads/2008/10/100218_wettfreunde_header_tipp.jpg" alt="tipp" width="49" height="22" border="0" /></td>
+<td><span style="font-size: medium;">→ <a href="http://www.wettfreunde.net/em-2016-tipps/em-wette-wer-wird-europameister-2016-favoriten-tipp-quoten/"><strong>Wer wird Europameister? Die EM 2016 Favoriten im Überblick</strong></a></span></td>
+</tr>
+</tbody>
+</table>
+<p><a name="platz-3"></a><br />
+&nbsp;</p>
+<h5><strong>Gibt es bei der EM 2016 ein Spiel um Platz drei?</strong></h5>
+<p>Obwohl dieses Mal noch mehr Teams teilnehmen, wird es auch 2016 in Frankreich kein Spiel um Platz drei geben. Schon beim bitteren Ausscheiden im Halbfinale gegen Italien bei der EM 2012 waren viele deutsche Fans enttäuscht, sich nicht wenigstens mit einem Spiel um Platz drei trösten zu können. </p>
+<p>Der Trostpreis wird allerdings traditionell nur bei Weltmeisterschaften ausgespielt. Hier wurde nur beim ersten Ableger des Turniers 1930 und beim vierten Ableger 1950 – bei letzterem gab es auch kein Finale – auf die Austragung des Spiels um Platz drei verzichtet.</p>
+<p>&nbsp;<br />
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UnDx6ZAEOcw" frameborder="0" allowfullscreen></iframe></center></p>
+<p><em><strong>Port Elizabeth, 10.07.10:</strong> wie schon bei der Heim-WM 2006 beendet Deutschland das Turnier in Südafrika auf Platz 3 und schlägt Uruguay in einem äußerst unterhaltsamen Spiel &#8211; Tore: 1:0 Müller, 1:1 Cavani, 1:2 Forlan, 2:2 Jansen, 3:2 Khedira</em></p>
+<p>&nbsp;<br />
+Bei Europameisterschaften gab es das Spiel um Platz drei zunächst zwar, seit 1984 wird es aber nicht mehr ausgetragen. Der Grund ist ganz einfach: Für die UEFA lohnt sich das „kleine Finale“ aufgrund des geringen Medieninteresses und der quasi nicht vorhandenen sportlichen Bedeutung einfach nicht. </p>
+<p>Meist spielen die Teams in diesen Spielen auch nicht gerade in Bestbesetzung, auch deswegen sind die Einschaltquoten überschaubar.<br />
+<a name="spielplan-druckversion"></a><br />
+&nbsp;</p>
+<h4>Der komplette EM 2016 Spielplan zum Ausdrucken</h4>
+<p>Mit einem Klick auf den Spielplan erscheint die Grafik in voller Größe!</p>
+<p><a href="http://www.wettfreunde.net/wp-content/uploads/2015/11/Spielplan-wettfreunde.jpg" rel="attachment wp-att-60801"><img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/Spielplan-wettfreunde-714x1024.jpg" title="Der Spielplan zur EM 2016" alt="EM 2016 Spielplan Wettfreunde" width="714" height="1024" class="alignright size-large wp-image-60801" srcset="http://www.wettfreunde.net/wp-content/uploads/2015/11/Spielplan-wettfreunde-714x1024.jpg 714w, http://www.wettfreunde.net/wp-content/uploads/2015/11/Spielplan-wettfreunde-209x300.jpg 209w, http://www.wettfreunde.net/wp-content/uploads/2015/11/Spielplan-wettfreunde-768x1102.jpg 768w, http://www.wettfreunde.net/wp-content/uploads/2015/11/Spielplan-wettfreunde.jpg 1300w" sizes="(max-width: 714px) 100vw, 714px" /></a></p>
+<p><a name="kader-deutschland"></a><br />
+&nbsp;</p>
+<h5><strong>Wann wird der deutsche Kader bekanntgegeben?</strong></h5>
+<p>Bundestrainer Joachim Löw muss seinen 23-Mann-Kader spätestens am 31. Mai an die UEFA faxen. Voraussichtlich wird er aber zunächst einen erweiterten Kreis benennen, der ins erste Trainingslager fährt. So hatte Löw das schon beim Turnier in Brasilien sowie bei der letzten EM in Polen und der Ukraine gehandhabt. </p>
+<p>Die Nominierung des erweiterten Kaders wird wohl um den 14. Mai (letzter Bundesliga-Spieltag) herum erfolgen. Um sich zu zeigen, bleiben den Spielern noch vier Testspiele, unter anderem gegen England und Italien.</p>
+<p>&nbsp;<br />
+<img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-deutschland-joachim-loew.jpg" alt="EM 2016 Deutschland Jogi Löw" width="700" height="466" class="aligncenter size-full wp-image-60803" srcset="http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-deutschland-joachim-loew.jpg 700w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-deutschland-joachim-loew-300x200.jpg 300w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-deutschland-joachim-loew-600x400.jpg 600w, http://www.wettfreunde.net/wp-content/uploads/2015/11/em-2016-deutschland-joachim-loew-450x300.jpg 450w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p><em><strong>Bild:</strong> Joachim Löw wird wohl einen erweiterten Kader ins Trainingslager nach Ascona mitnehmen. Quelle: 308049341 &#8211; Tomasz Bidermann / Shutterstock.com</em></p>
+<p>&nbsp;<br />
+Kurz nach dem Bundesliga-Finale, vermutlich am 16. Mai, reist der DFB-Tross ins Tessin: In Ascona am Lago Maggiore, wo man sich schon auf die EM 2008 vorbereitet hatte, wird das Trainingslager stattfinden. Das DFB-Pokalfinale am 21. Mai wird wahrscheinlich dafür sorgen, dass ein großer Teil des Turnier-Kaders zu Beginn des Trainingslagers noch fehlt. </p>
+<p>Auch über eine Teilnahme seiner Akteure am Finale der Champions League (28. Mai) würde sich der Bundestrainer in diesem Jahr wohl nur bedingt freuen. </p>
+<p>&nbsp;</p>
+<h4>Weiterführende Informationen</h4>
+<p>→ <a href="http://www.wettfreunde.net/em-2016-quoten/">Alle EM 2016 Quoten und Wetten</a><br />
+→ <a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/">Wettquoten für die EM 2016 Gruppensieger</a><br />
+→ <a href="http://www.wettfreunde.net/em-2016-tipps/">Alle Tipps zur Fußball EM 2016</a></p>
+<p>&nbsp;</p>
+<div class="auth-bio clearfix">
+<h1>Die Infos zum EM 2016 Spielplan wurden zusammengestellt von: Heinz</h1>
+<p><img class="avatar avatar-132 current-author photo" src="http://www.wettfreunde.net/wp-content/uploads/2015/06/sk11-patzelt_avatar_1433699933.jpg" alt="Heinz" width="132" height="132" /></p>
+<p>Heinz ist seit mehr als 25 Jahren im Geschäft mit Sportwetten tätig. Vom einfachen Kassenpersonal im Wettshop bis zum CEO eines großen internationalen Wettanbieters hat er dabei alle Stationen in diesem Business durchlaufen. Seit 2008 ist Heinz als Berater in der Wettbranche aktiv und widmet sich in erster Linie dem Testen und Vergleichen der verschiedenen Wettanbieter im Internet.</p>
+<div class="sub-icons auth-icons"> <ul class="clearfix"> <li><a class="subicon twitter" title="Heinz auf Twitter" href="http://www.twitter.com/Heinz_Patzelt/" rel="external">Twitter</a></li> <li><a class="subicon gplus" title="Heinz auf Google Plus" href="https://plus.google.com/+HeinzPatzelt?rel=author" rel="external">Google</a></li> <li><a class="subicon linkedin" title="Heinz auf LinkedIn" href="http://www.linkedin.com/pub/heinz-patzelt/97/94/b24/" rel="external">LinkedIn</a></li> </ul></div></div><div class="et_social_inline et_social_mobile_on et_social_inline_bottom">
+<div class="et_social_networks et_social_autowidth et_social_slide et_social_circle et_social_left et_social_no_animation et_social_withnetworknames et_social_outer_dark">
+<ul class="et_social_icons_container"><li class="et_social_facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.wettfreunde.net%2Fem-2016-spielplan%2F&#038;t=EM%202016%20Spielplan%20%C2%BB%20alle%20Spiele%2C%20Termine%20und%20Wettquoten" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="55247" data-social_type="share"><i class="et_social_icon et_social_icon_facebook"></i><div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_twitter"><a href="http://twitter.com/share?text=EM%202016%20Spielplan%20%C2%BB%20alle%20Spiele%2C%20Termine%20und%20Wettquoten&#038;url=http%3A%2F%2Fwww.wettfreunde.net%2Fem-2016-spielplan%2F&#038;via=" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="55247" data-social_type="share"><i class="et_social_icon et_social_icon_twitter"></i><div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_googleplus"><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.wettfreunde.net%2Fem-2016-spielplan%2F&#038;t=EM%202016%20Spielplan%20%C2%BB%20alle%20Spiele%2C%20Termine%20und%20Wettquoten" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="55247" data-social_type="share"><i class="et_social_icon et_social_icon_googleplus"></i><div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.wettfreunde.net%2Fem-2016-spielplan%2F&#038;title=EM%202016%20Spielplan%20%C2%BB%20alle%20Spiele%2C%20Termine%20und%20Wettquoten" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="55247" data-social_type="share"><i class="et_social_icon et_social_icon_linkedin"></i><div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_all_button">
+<a href="#" rel="nofollow" data-location="inline" data-page_id="55247" data-permalink="http://www.wettfreunde.net/em-2016-spielplan/" data-title="EM 2016 Spielplan » alle Spiele, Termine und Wettquoten" class="et_social_open_all">
+<i class="et_social_icon et_social_icon_all_button"></i>
+<span class="et_social_overlay"></span>
+</a>
+</li></ul></div></div><div style="clear:both;"></div></div></div></div><div id="sidebar-narrow" class="clearfix">
+<div id="text-16" class="widget widget-1 widget-first widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>+++ Fußball EM 2016 +++</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/em-2016-quoten/">EM 2016 Quoten</a></li>
+<li><a href="http://www.wettfreunde.net/em-2016-tipps/">EM 2016 Tipps</a></li>
+<li><a href="http://www.wettfreunde.net/em-2016-quoten/gruppensieger/">EM 2016 Gruppen</a></li>
+<li><a href="http://www.wettfreunde.net/em-2016-spielplan/">EM 2016 Spielplan</a></li></div></div></div><div id="text-2" class="widget widget-2 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Hauptmenü</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/">Startseite</a></li> <li><a href="http://www.wettfreunde.net/wettanbieter-test/">Wettanbieter Test</a></li> <li><a href="http://www.wettfreunde.net/sportwetten-bonus/">Wettbonus Vergleich</a></li> <li><a href="http://www.wettfreunde.net/sportwetten-news/">Sportwetten News</a></li> <li><a href="http://www.wettfreunde.net/wettfreunde-news/">Wettfreunde Tipps</a></li></div></div></div><div id="text-3" class="widget widget-3 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Top 3 Wettanbieter</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/interwetten/">Interwetten</a></li> <li><a href="http://www.wettfreunde.net/bet365/">Bet365</a></li> <li><a href="http://www.wettfreunde.net/tipico/">Tipico</a></li></div></div></div><div id="text-4" class="widget widget-4 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Top 3 Wettbonus</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/bet365-wettbonus/">Bet365 Bonus</a></li> <li><a href="http://www.wettfreunde.net/tipico-wettbonus/">Tipico Bonus</a></li> <li><a href="http://www.wettfreunde.net/interwetten-wettbonus/">Interwetten Bonus</a></li></div></div></div><div id="text-5" class="widget widget-5 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Bundesliga 2015/2016</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/bundesliga-wetten/">Bundesliga Wetten</a></li> <li><a href="http://www.wettfreunde.net/bundesliga-quoten/">Bundesliga Quoten</a></li> <li><a href="http://www.wettfreunde.net/bundesliga-tipps/">Bundesliga Tipps</a></li> <li><a href="http://www.wettfreunde.net/bundesliga-spielplan/">Bundesliga Spielplan</a></li> <li><a href="http://www.wettfreunde.net/zweite-liga-tipps/">2. Bundesliga Tipps</a></li> <li><a href="http://www.wettfreunde.net/dfb-pokal-tipps/">DFB Pokal Tipps</a></li></div></div></div><div id="text-6" class="widget widget-6 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Fußballwetten</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/champions-league/">Champions League</a></li> <li><a href="http://www.wettfreunde.net/europa-league/">Europa League</a></li> <li><a href="http://www.wettfreunde.net/fussball-international/">Fußball International</a></li></div></div></div><div id="text-15" class="widget widget-7 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Wettfreunde Umfrage</span></h3>			<div class="textwidget">Wie viele verschiedene Wettanbieter benützen Sie regelmäßig? <br> <a href="http://www.wettfreunde.net/umfragen/"><img src="http://www.wettfreunde.net/wp-content/uploads/2015/11/button-abstimmen.jpg" title="jetzt abstimmen" alt="Button abstimmen" width="175" height="68" class="alignleft size-full wp-image-55504" /></a> <br></div></div></div><div id="text-7" class="widget widget-8 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Erfolgreich Wetten</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/wettarten/">Wettarten</a></li> <li><a href="http://www.wettfreunde.net/wettbegriffe/">Wettbegriffe</a></li> <li><a href="http://www.wettfreunde.net/wettstrategie/">Wettstrategie</a></li> <li><a href="http://www.wettfreunde.net/erfolgreich-wetten/">Häufige Fragen</a></li></div></div></div><div id="text-8" class="widget widget-9 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Sportwetten Tools</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/livescores-resultate/">Livescores und Resultate</a></li> <li><a href="http://www.wettfreunde.net/tabellen-statistiken/">Tabellen und Statistiken</a></li> <li><a href="http://www.wettfreunde.net/wettquoten-vergleich/">Wettquoten Vergleich</a></li> <li><a href="http://www.wettfreunde.net/aktuelle-sportinfos/">Aktuelle Sportinfos</a></li></div></div></div><div id="text-9" class="widget widget-10 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Sportwetten Links</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/wettbueros/">Wettbüros</a></li> <li><a href="http://www.wettfreunde.net/online-buchmacher/">Buchmacher</a></li> <li><a href="http://www.wettfreunde.net/wettinfos/">Wettinfos</a></li> <li><a href="http://www.wettfreunde.net/wettforen/">Wettforen</a></li></div></div></div><div id="text-10" class="widget widget-11 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Wett Tipps Archiv</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/wm-2010-tipps/">WM 2010 Tipps</a></li> <li><a href="http://www.wettfreunde.net/em-2012-tipps/">EM 2012 Tipps</a></li> <li><a href="http://www.wettfreunde.net/wm-2014-tipps/">WM 2014 Tipps</a></li></div></div></div><div id="text-11" class="widget widget-12 widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Über Wettfreunde.net</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/ueber-uns/">Über uns - die Redaktion</a></li> <li><a href="http://www.wettfreunde.net/impressum-kontakt/">Impressum und Kontakt</a></li> <li><a href="http://www.wettfreunde.net/nutzungsbedingungen/">Nutzungsbedingungen</a></li></div></div></div><div id="text-14" class="widget widget-13 widget_text"><div class="widget-wrap">			<div class="textwidget"><img src="http://www.wettfreunde.net/wp-content/uploads/2015/10/wettfreunde-hotline.jpg" alt="Wettfreunde Telefon Hotline" width="200" height="132" class="aligncenter size-full wp-image-52921" /></div></div></div><div id="sscontact-widget-2" class="widget widget-14 sscontact"><div class="widget-wrap">
+<div class="contactinfo">
+<div class="contactinfo-inner"> <h3 class="widgettitle"><span>Wettfreunde Hotline</span></h3> <span class="name">Kontaktieren Sie unsere Fachredaktion für alle Fragen rund um das Thema Sportwetten!</span> <span class="phone">0800-9940060 Deutschland (Kostenlos)</span> <span class="email"><a href="mailto:&#109;&#97;i&#108;&#64;&#119;e&#116;&#116;&#102;r&#101;unde&#46;ne&#116;">Email</a></span></div></div></div></div><div id="socialicons-widget-2" class="widget widget-15 socialicons"><div class="widget-wrap"><h3 class="widgettitle"><span>Social Media</span></h3><div class="textwidget"><p>Folge Wettfreunde.net in den sozialen Netzwerken</p>
+<div class="sub-icons"> <ul class="clearfix"> <li><a class="subicon rss" title="Subscribe via RSS Feed" href="http://www.wettfreunde.net/feed/">RSS Feed</a></li> <li><a class="subicon facebook" title="Folge Wettfreunde.net auf Facebook" rel="external" href="http://www.facebook.com/wettfreunde.net">Facebook</a></li> <li><a class="subicon twitter" rel="external" title="Folge Wettfreunde.net auf Twitter" href="http://www.twitter.com/wettfreunde">Twitter</a></li> <li><a class="subicon gplus" title="Folge Wettfreunde.net auf Google+" rel="publisher" href="https://plus.google.com/+wettfreunde/">Google</a></li> </ul></div></div></div></div><div id="recent-posts-2" class="widget widget-16 widget_recent_entries"><div class="widget-wrap"> <h3 class="widgettitle"><span>Aktuellste Beiträge</span></h3> <ul> <li> <a href="http://www.wettfreunde.net/em-2016-tipps/em-wette-wer-wird-europameister-2016-favoriten-tipp-quoten/">Wer wird Europameister 2016? Favoriten, Tipp &#038; Quoten</a> </li> <li> <a href="http://www.wettfreunde.net/sportwetten-news/anlaesslich-euro-interwetten-erhoeht-neukundenbonus-170-euro/">Anlässlich der EURO: Interwetten erhöht Neukundenbonus auf 170€</a> </li> <li> <a href="http://www.wettfreunde.net/em-2016-tipps/wie-weit-kommt-deutschland/">EM 2016: Wie weit kommt Deutschland? &#8211; Quoten &#038; Wetten</a> </li> <li> <a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-deutschland-ukraine-wettquoten/">Deutschland &#8211; Ukraine Tipp, Quoten &#038; Wetten | EM 2016</a> </li> <li> <a href="http://www.wettfreunde.net/wettfreunde-news/nba-finals-2016-cleveland-cavaliers-golden-state-warriors-quoten-tipp/">NBA Finals 2016: Cleveland &#8211; Golden State | Vorschau und Quoten</a> </li> <li> <a href="http://www.wettfreunde.net/fussball-international/copa-america-2016-usa-kolumbien/">USA &#8211; Kolumbien | Copa America 2016 | Wettquoten &#038; Tipp</a> </li> <li> <a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-deutschland-polen-wettquoten/">Deutschland &#8211; Polen Tipp, Quoten &#038; Wetten | EM 2016</a> </li> <li> <a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-frankreich-rumaenien-wettquoten/">Frankreich – Rumänien Tipp, Quoten &#038; Wetten | EM 2016</a> </li> <li> <a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-albanien-schweiz-wettquoten/">Albanien – Schweiz Tipp, Quoten &#038; Wetten | EM 2016</a> </li> <li> <a href="http://www.wettfreunde.net/em-2016-tipps/vorrunde-wales-slowakei-wettquoten/">Wales – Slowakei Tipp, Quoten &#038; Wetten | EM 2016</a> </li> </ul></div></div><div id="text-12" class="widget widget-17 widget-last widget_text"><div class="widget-wrap">			<div class="textwidget"><img src="http://www.wettfreunde.net/wp-content/uploads/2015/07/expert.jpg" alt="button expert" width="156" height="127" class="alignleft size-full wp-image-41468" /></div></div></div></div><div style="clear:both;margin-bottom:20px;"></div></div></div></div></div><div id="footer-widgets" class="maincontent">
+<div class="limit clearfix">
+<div class="footer-widget1">
+<div id="nav_menu-2" class="widget widget-1 widget-first widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle"><span>Wettanbieter Testberichte Top 10</span></h3><div class="menu-wettanbieter-testberichte-1-10-container"><ul id="menu-wettanbieter-testberichte-1-10" class="menu"><li id="menu-item-37224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37224"><a href="http://www.wettfreunde.net/interwetten/">Interwetten Testbericht</a></li> <li id="menu-item-37225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37225"><a href="http://www.wettfreunde.net/bet365/">Bet365 Testbericht</a></li> <li id="menu-item-37228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37228"><a href="http://www.wettfreunde.net/tipico/">Tipico Testbericht</a></li> <li id="menu-item-37229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37229"><a href="http://www.wettfreunde.net/betsafe/">Betsafe Testbericht</a></li> <li id="menu-item-37231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37231"><a href="http://www.wettfreunde.net/netbet/">Netbet Testbericht</a></li> <li id="menu-item-72132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72132"><a href="http://www.wettfreunde.net/bet3000/">Bet3000 Testbericht</a></li> <li id="menu-item-72130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72130"><a href="http://www.wettfreunde.net/betway/">Betway Testbericht</a></li> <li id="menu-item-37235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37235"><a href="http://www.wettfreunde.net/comeon/">ComeOn Testbericht</a></li> <li id="menu-item-37236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37236"><a href="http://www.wettfreunde.net/ladbrokes/">Ladbrokes Testbericht</a></li> <li id="menu-item-72127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72127"><a href="http://www.wettfreunde.net/bwin/">Bwin Testbericht</a></li> </ul></div></div></div></div><div class="footer-widget2">
+<div id="nav_menu-8" class="widget widget-1 widget-first widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle"><span>Wettanbieter Testberichte 11+</span></h3><div class="menu-wettanbieter-testberichte-11-container"><ul id="menu-wettanbieter-testberichte-11" class="menu"><li id="menu-item-52521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52521"><a href="http://www.wettfreunde.net/mybet/">Mybet Testbericht</a></li>
+<li id="menu-item-52529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52529"><a href="http://www.wettfreunde.net/expekt/">Expekt Testbericht</a></li>
+<li id="menu-item-52522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52522"><a href="http://www.wettfreunde.net/betvictor/">Betvictor Testbericht</a></li>
+<li id="menu-item-72135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72135"><a href="http://www.wettfreunde.net/bigbetworld/">Big Bet World Testbericht</a></li>
+<li id="menu-item-52531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52531"><a href="http://www.wettfreunde.net/betworld/">Betworld Testbericht</a></li>
+<li id="menu-item-72137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72137"><a href="http://www.wettfreunde.net/kulbet/">Kulbet Testbericht</a></li>
+<li id="menu-item-52524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52524"><a href="http://www.wettfreunde.net/sportingbet/">Sportingbet Testbericht</a></li>
+<li id="menu-item-72138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72138"><a href="http://www.wettfreunde.net/mobilbet/">Mobilbet Testbericht</a></li>
+<li id="menu-item-52525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52525"><a href="http://www.wettfreunde.net/unibet/">Unibet Testbericht</a></li>
+<li id="menu-item-52527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52527"><a href="http://www.wettfreunde.net/bet-at-home/">Bet-at-Home Testbericht</a></li>
+<li id="menu-item-52528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52528"><a href="http://www.wettfreunde.net/betsson/">Betsson Testbericht</a></li>
+<li id="menu-item-52520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52520"><a href="http://www.wettfreunde.net/betclick/">Betclic Testbericht</a></li>
+</ul></div></div></div></div><div class="footer-widget3">
+<div id="nav_menu-6" class="widget widget-1 widget-first widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle"><span>Wettfreunde Tipps</span></h3><div class="menu-tipps-container"><ul id="menu-tipps" class="menu"><li id="menu-item-37283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37283"><a href="http://www.wettfreunde.net/bundesliga-tipps/">Bundesliga</a></li> <li id="menu-item-37284" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37284"><a href="http://www.wettfreunde.net/zweite-liga-tipps/">Zweite Liga</a></li> <li id="menu-item-37287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37287"><a href="http://www.wettfreunde.net/dfb-pokal-tipps/">DFB Pokal</a></li> <li id="menu-item-37282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37282"><a href="http://www.wettfreunde.net/champions-league/">Champions League</a></li> <li id="menu-item-37286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37286"><a href="http://www.wettfreunde.net/europa-league/">Europa League</a></li> <li id="menu-item-37285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37285"><a href="http://www.wettfreunde.net/fussball-international/">Fussball International</a></li> <li id="menu-item-37290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37290"><a href="http://www.wettfreunde.net/em-2016-tipps/">Fußball EM 2016</a></li> <li id="menu-item-52532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52532"><a href="http://www.wettfreunde.net/fussballwetten/">Fußballwetten</a></li> <li id="menu-item-52533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52533"><a href="http://www.wettfreunde.net/livewetten/">Live Wetten</a></li> </ul></div></div></div></div><div class="footer-widget4">
+<div id="nav_menu-7" class="widget widget-1 widget-first widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle"><span>Quoten Vergleich</span></h3><div class="menu-wettquoten-vergleich-container"><ul id="menu-wettquoten-vergleich" class="menu"><li id="menu-item-43610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43610"><a href="http://www.wettfreunde.net/bundesliga-quoten/">Bundesliga Spieltag</a></li> <li id="menu-item-43612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43612"><a href="http://www.wettfreunde.net/deutscher-meister-wetten/">Bundesliga Meister</a></li> <li id="menu-item-43611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43611"><a href="http://www.wettfreunde.net/bundesliga-absteiger-wetten/">Bundesliga Absteiger</a></li> <li id="menu-item-43613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43613"><a href="http://www.wettfreunde.net/zweite-liga-quoten/">2. Liga Spieltag</a></li> <li id="menu-item-43609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43609"><a href="http://www.wettfreunde.net/champions-league-quoten/">Champions League</a></li> <li id="menu-item-43615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43615"><a href="http://www.wettfreunde.net/europa-league-quoten/">Europa League</a></li> <li id="menu-item-43614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43614"><a href="http://www.wettfreunde.net/em-2016-quoten/">Europameister 2016</a></li> </ul></div></div></div><div id="text-13" class="widget widget-2 widget-last widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Wettfreunde.net</span></h3>			<div class="textwidget"><li><a href="http://www.wettfreunde.net/impressum-kontakt/">Impressum / Kontakt</a></li> <li><a href="http://www.wettfreunde.net/ueber-uns/">Über uns / Redaktion</a></li></div></div></div></div></div></div><div id="footer" class="clearfix">
+<div class="limit"> &copy; 2008-2016 - www.wettfreunde.net - das Portal für erfolgreiche Sportwetten</div></div><div id="backtotop">Top</div></div><div class="et_social_pin_images_outer">
+<div class="et_social_pinterest_window">
+<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div><div class="et_social_pin_images" data-permalink="http://www.wettfreunde.net/em-2016-spielplan/" data-title="EM 2016 Spielplan » alle Spiele, Termine und Wettquoten" data-post_id="55247"></div></div></div><script type="text/javascript">jQuery(document).ready(function(){
+jQuery("#onecol").click(function(){
+jQuery("#post-grid").removeClass("twocol");
+jQuery("#post-grid").removeClass("threecol");
+jQuery("#onecol").addClass("active");
+jQuery("#threecol").removeClass("active");
+jQuery("#twocol").removeClass("active");
+return false;
+});jQuery("#twocol").click(function(){
+jQuery("#post-grid").addClass("twocol");
+jQuery("#post-grid").removeClass("threecol");
+jQuery("#twocol").addClass("active");
+jQuery("#onecol").removeClass("active");
+jQuery("#threecol").removeClass("active");
+return false;
+});jQuery("#threecol").click(function(){
+jQuery("#post-grid").addClass("threecol");
+jQuery("#post-grid").removeClass("twocol");
+jQuery("#threecol").addClass("active");
+jQuery("#onecol").removeClass("active");
+jQuery("#twocol").removeClass("active");
+return false;
+});});</script>
+<script type="text/javascript">jQuery(function (){
+jQuery('.nav').mobileMenu({ defaultText:'Navigate to ...' });jQuery('.catnav').mobileMenu({ defaultText:'Navigate to ...', className:'select-menu-catnav' });jQuery('.fixednav').mobileMenu({ defaultText:'Navigate to ...', className:'select-menu-fixednav' });});</script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<script type="text/javascript">jQuery(document).ready(function(){ 
+jQuery('#topnav ul.nav').superfish({ 
+delay:300,				
+animation:{opacity:'show',height:'show'},	
+speed:'fast',				
+cssArrows:false				
+});});</script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/e40c2ca35e9b7c6bf35b2f15bbfbc6c0/1445434260index.js'></script>
+<script type='text/javascript'>var monarchSettings={"ajaxurl":"http:\/\/www.wettfreunde.net\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.wettfreunde.net\/em-2016-spielplan\/","stats_nonce":"13dacff16f","share_counts":"13c4a2eb2b","follow_counts":"f4e256098b","total_counts":"d4f952803d","media_single":"54f7f59366","media_total":"46c51bd32f","generate_all_window_nonce":"27c05b449d","no_img_message":"No images available for sharing on this page"};</script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/ec4426da20a7d114c615c71ca0817378/1445434260index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/af82c86d926fd4fb692ccecbaf95d586/1465054846index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/fc82490f2c625771f50bcb4efd7148c6/1465054846index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/e66f7982d22c8caf59e6b3ad8a764c66/1445434260index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/f16510e86bf7042c21f0ea9e2db43853/1465054846index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/e70c4ddf57eb77f637618ee0c39ce409/1465054846index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/5958af15ab8a5bb8662ac6f26ed8e09e/1465054846index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/abb427cf364dd5e71756673fa2c78ecb/1465054846index.js'></script>
+<script type='text/javascript' src='//www.wettfreunde.net/wp-content/cache/wpfc-minified/6a4014965f2ec7dc07d5caae09dad454/1465054846index.js'></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.65727400779724 seconds, on 06-06-16 16:51:19 -->

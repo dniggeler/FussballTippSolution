@@ -1,0 +1,19 @@
+﻿@model FussballTippApp.Models.DailyWinnerInfoModel
+
+@{
+    ViewBag.Title = "Tagessieger";
+}
+
+<h2>Tagessieger</h2>
+
+@using (Html.BeginForm("DailyWinners", "Home", FormMethod.Post))
+{
+
+    <div style="float:right;">
+        @Html.DropDownList("Spieltag", null, new { onchange = "$(this).closest('form').submit();" })
+    </div>
+    <br style="clear:both" />
+    
+    @Html.Partial("_DailyWinnerListerPartial")
+
+}
