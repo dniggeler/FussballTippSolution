@@ -194,19 +194,10 @@ namespace FussballTipp.Repository
             }
             else
             {
-                if (groupId < 7)
-                {
-                    matches = _client.GetMatchdataByLeagueSaison(_leagueTag, _saisonTag)
-                        .Where(r => r.groupOrderID < 7).ToArray();
-                }
-                else
-                {
-                    matches = _client.GetMatchdataByGroupLeagueSaison(groupId, _leagueTag, _saisonTag);
-                    
-                }
+                matches = _client.GetMatchdataByGroupLeagueSaison(groupId, _leagueTag, _saisonTag);
 
                 // check if data has been found at all
-                if(matches.Count()==1)
+                if (matches.Count() == 1)
                 {
                     if (matches.First().matchID == -1)
                     {
@@ -217,7 +208,7 @@ namespace FussballTipp.Repository
                 _cache.Set(CACHE_MATCH_GROUP_TAG, matches, CACHE_DURATION);
 
                 // cache single matches
-                foreach(var m in matches)
+                foreach (var m in matches)
                 {
                     _cache.Set(CACHE_MATCH_TAG + m.matchID.ToString(), m, CACHE_DURATION);
                 }
@@ -237,32 +228,26 @@ namespace FussballTipp.Repository
 
         public List<MatchDataModel> GetMatchesByCurrentGroup()
         {
-            return GetMatchesByGroup(this.GetCurrentGroup().Id);
+            return GetMatchesByGroup(GetCurrentGroup().Id);
         }
 
         bool IFussballDataRepository.IsSpieltagComplete
         {
             get {
-                var mNext = this.GetNextMatch();
-                var dataLast = this.GetLastMatch();
+                var mNext = GetNextMatch();
+                var dataLast = GetLastMatch();
 
                 if (mNext == null)
                 {
                     return true;
                 }
-                else if (dataLast == null)
-                {
-                    return false;
-                }
-                else
-                {
-                    if (dataLast.GroupId < mNext.GroupId)
-                    {
-                        return true;
-                    }
 
-                    return false;
+                if (dataLast?.GroupId < mNext.GroupId)
+                {
+                    return true;
                 }
+
+                return false;
             }
         }
 
@@ -276,7 +261,7 @@ namespace FussballTipp.Repository
                              select e)
                              .Count();
 
-            return count==1?true:false;
+            return count==1;
         }
 
         public void Dispose()
@@ -318,7 +303,7 @@ namespace FussballTipp.Repository
             matchModelObj.IsFinished = match.matchIsFinished;
             matchModelObj.LeagueShortcut = match.leagueShortcut;
 
-            if(match.matchResults != null && match.matchResults.Count() > 0)
+            if(match.matchResults != null && match.matchResults.Any())
             {
                 var result = (from r in match.matchResults where r.resultTypeId == 3 select r).FirstOrDefault();
 

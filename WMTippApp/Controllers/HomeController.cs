@@ -13,6 +13,7 @@ using FussballTipp.Utils;
 using OddsScraper.Contract.Model;
 using WebScraperOdds;
 using WMTippApp.Properties;
+using WMTippApp.SvcFussballDB;
 
 namespace WMTippApp.Controllers
 {
@@ -46,7 +47,7 @@ namespace WMTippApp.Controllers
 
             var allGroups = _matchDataRepository.GetAllGroups();
 
-            int currentSpieltag = (Spieltag.HasValue == true) ? Spieltag.Value : SportsdataConfigInfo.Current.CurrentSpieltag;
+            int currentSpieltag = Spieltag ?? SportsdataConfigInfo.Current.CurrentSpieltag;
 
             // build dropdown list data
             {
@@ -94,32 +95,22 @@ namespace WMTippApp.Controllers
                 };
 
                 // mixin odds quotes into match data
-                {
-                    MixinOddsQuotes(oddsList, modelAllInfo);
-                }
+                MixinOddsQuotes(oddsList, modelAllInfo);
 
                 using (var ctxt = new TippSpielContext())
                 {
                     var myTippObject = (from t in ctxt.TippMatchList
-                                        where t.MatchId == modelAllInfo.MatchId &&
-                                                t.User == User.Identity.Name
-                                        select t)
-                                        .FirstOrDefault();
+                            where t.MatchId == modelAllInfo.MatchId &&
+                                  t.User == User.Identity.Name
+                            select t)
+                        .FirstOrDefault();
 
                     if (myTippObject != null)
                     {
                         modelAllInfo.MyOdds = myTippObject.MyOdds;
                         modelAllInfo.MyTip = myTippObject.MyTip;
                         modelAllInfo.IsJoker = myTippObject.IsJoker;
-
-                        if (myTippObject.IsJoker == true)
-                        {
-                            modelAllInfo.MyAmount = myTippObject.MyAmount*TippspielConfigInfo.Current.JokerMultiplicator;
-                        }
-                        else
-                        {
-                            modelAllInfo.MyAmount = myTippObject.MyAmount;
-                        }
+                        modelAllInfo.MyAmount = myTippObject.MyAmount;
                     }
                 }
 
@@ -379,154 +370,6 @@ namespace WMTippApp.Controllers
         }
 
         [HttpPost]
-        public JsonResult SetJokerTipp(int id, int groupId, bool isJoker)
-        {
-            log.DebugFormat("SetJokerTipp begin: id={0}, groupId={1}, isJoker={2}", id, groupId, isJoker);
-
-            try
-            {
-                if (groupId > 6)
-                {
-                    string msg = String.Format("Joker operation not allowed, group id={0}", groupId);
-                    log.Debug(msg);
-
-                    throw new ApplicationException(msg);
-                }
-
-                bool jokerCheck = false;
-                int nAvailableJokers = 0;
-
-                int maxJokerTipps = TippspielConfigInfo.Current.MaxJokerTips;
-
-                var user = User.Identity.Name.ToLower();
-
-                using (var ctxt = new TippSpielContext())
-                {
-                    var nJokerTipps = (from t in ctxt.TippMatchList
-                                       where t.User == user &&
-                                           t.IsJoker == true
-                                       select t);
-
-                    nAvailableJokers = maxJokerTipps - nJokerTipps.Count();
-
-                    if (isJoker == false)
-                    {
-                        var matchObj = (from m in ctxt.TippMatchList
-                                        where m.MatchId == id &&
-                                                m.User == user
-                                        select m)
-                                        .FirstOrDefault();
-
-                        if (matchObj != null)
-                        {
-                            if (matchObj.IsJoker == true) nAvailableJokers++;
-
-                            matchObj.LastUpdated = DateTime.Now;
-                            matchObj.User = user;
-                            matchObj.IsJoker = false;
-                        }
-
-                        ctxt.SaveChanges();
-
-                        jokerCheck = true;
-                    }
-                    else
-                    {
-                        // check if match is pre-round and no more than MAX_JOKER are available
-                        //
-                        // pre-round check
-                        {
-                            var match = _matchDataRepository.GetMatchData(id);
-                            if (match != null && match.GroupId < 7 && match.KickoffTime > DateTime.Now)
-                            {
-                                // max joker is not exceeded
-
-                                if (nJokerTipps.Count() < maxJokerTipps)
-                                {
-                                    jokerCheck = true;
-                                    nAvailableJokers--;
-                                }
-                                else if (nJokerTipps.Count() == maxJokerTipps)
-                                {
-                                    if (nJokerTipps.Where(j => (j.MatchId == id)).Count() == 1)
-                                    {
-                                        jokerCheck = true;
-                                    }
-                                }
-                            }
-                        }
-
-                        if (jokerCheck == true)
-                        {
-                            var matchObj = (from m in ctxt.TippMatchList
-                                            where m.MatchId == id &&
-                                                    m.User == user
-                                            select m)
-                                            .FirstOrDefault();
-
-                            if (matchObj == null)
-                            {
-                                var newMatchObj = new TippMatchModel()
-                                {
-                                    MatchId = id,
-                                    GroupId = groupId,
-                                    IsJoker = true,
-                                    User = user,
-                                    LastUpdated = DateTime.Now
-                                };
-
-                                ctxt.TippMatchList.Add(newMatchObj);
-                            }
-                            else
-                            {
-                                matchObj.LastUpdated = DateTime.Now;
-                                matchObj.User = user;
-                                matchObj.IsJoker = isJoker;
-                            }
-
-                            ctxt.SaveChanges();
-                        }
-                    }
-
-                    string ErrorMsg = "";
-                    if (jokerCheck == false)
-                    {
-                        ErrorMsg = "Keine Joker mehr verfügbar";
-                    }
-
-                    var result = new
-                    {
-                        Success = jokerCheck,
-                        MatchId = id,
-                        AvailableJokers = nAvailableJokers,
-                        Error = ErrorMsg
-                    };
-
-                    {
-
-                        log.DebugFormat("Tipp data stats: remote hits={0}, cache hits={1}", MatchDBStats.GetRemoteHits(), MatchDBStats.GetCacheHits());
-                    }
-
-                    log.Debug("SetJokerTipp end");
-
-                    return Json(result);
-                }
-            }
-            catch (FormatException ex)
-            {
-                log.ErrorFormat("Match id cannot be converted, id={0}." + id.ToString());
-                log.ErrorFormat("Exception message={0}." + ex.Message);
-
-                return Json(new
-                {
-                    Success = false,
-                    Error = ex.Message,
-                    MatchId = id
-                });
-            }
-        }
-
-        [HttpPost]
         public JsonResult SetMatchTipp(int id, int groupId, int tip, double? odds)
         {
             log.Debug("SetMatchTipp begin");
@@ -577,7 +420,7 @@ namespace WMTippApp.Controllers
                     {
                         Success = true,
                         MatchId = id,
-                        MyOdds = String.Format("{0:0.00}",odds)
+                        MyOdds = $"{odds:0.00}"
                     };
 
                     {
@@ -621,14 +464,8 @@ namespace WMTippApp.Controllers
         private SvcFussballDB.Matchdata GetMatchFromCache(int matchId)
         {
             var obj = HttpContext.Cache.Get(matchId.ToString());
-            if (obj == null)
-            {
-                return null;
-            }
-            else
-            {
-                return obj as SvcFussballDB.Matchdata;
-            }
+
+            return obj as Matchdata;
         }
 
         private static double MapGroup2Amount(int groupId)
@@ -638,14 +475,11 @@ namespace WMTippApp.Controllers
                 case 1: 
                 case 2: 
                 case 3: 
-                case 4: 
-                case 5: 
-                case 6:
                     return 1.0;
-                case 7: return 2.0;
-                case 8: return 4.0;
-                case 9: return 6.0;
-                case 10: return 8.0;
+                case 4: return 2.0;
+                case 5: return 4.0;
+                case 6: return 6.0;
+                case 7: return 8.0;
                 default: return 1.0;
             }
         }
