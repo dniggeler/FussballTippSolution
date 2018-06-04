@@ -17,7 +17,7 @@ namespace BhFS.Tippspiel.Utils
             LeagueSaison = "2018";
             StartSpieltag = 1;
             CurrentSpieltag = 1;
-            EndSpieltag = 10;
+            EndSpieltag = 8;
         }
     }
 

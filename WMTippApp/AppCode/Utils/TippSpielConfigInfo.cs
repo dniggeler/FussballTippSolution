@@ -18,7 +18,7 @@ namespace BhFS.Tippspiel.Utils
             EmailProviderUser = @"buli@bhfs.ch";
             EmailProviderPwd = @"hilbert1";
             EmailHost = @"mail.netzone.ch";
-            MaxJokerTips = 1;
+            MaxJokerTips = 0;
             JokerMultiplicator = 1.0;
         }
     }

@@ -117,7 +117,7 @@ namespace BhFS.Tippspiel.Utils
             matchModelObj.AwayTeam = match.nameTeam2;
             matchModelObj.IsFinished = match.matchIsFinished;
 
-            if (match.matchResults != null && match.matchResults.Count() > 0)
+            if (match.matchResults != null && match.matchResults.Any())
             {
                 var result = (from r in match.matchResults orderby r.resultTypeId descending select r).FirstOrDefault();
 

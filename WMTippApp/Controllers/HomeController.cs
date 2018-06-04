@@ -343,7 +343,7 @@ namespace WMTippApp.Controllers
                         if (matchModelObj.HasStarted == true)
                         {
                             resultDict[tip.User].TippCount++;
-                            resultDict[tip.User].TotalPoints += (matchModelObj.MyPoints.HasValue) ? matchModelObj.MyPoints.Value : 0.0;
+                            resultDict[tip.User].TotalPoints += matchModelObj.MyPoints ?? 0.0;
                         }
 
                         if (matchModelObj.HasStarted == true)
@@ -372,21 +372,36 @@ namespace WMTippApp.Controllers
         [HttpPost]
         public JsonResult SetMatchTipp(int id, int groupId, int tip, double? odds)
         {
-            log.Debug("SetMatchTipp begin");
-
             try
             {
                 var user = User.Identity.Name.Trim().ToLower();
 
-                log.DebugFormat("match id={0}, tip={1}, odds={2:0.00}, user={3}", id, tip, odds, user);
+                log.Debug($"match id={id}, tip={tip}, odds={odds:0.00}, user={user}");
+
+                var matchToTip = _matchDataRepository.GetMatchData(id);
+
+                if (matchToTip != null)
+                {
+                    if (matchToTip.KickoffTime < DateTime.Now)
+                    {
+                        log.Warn($"User {user} tried to change tip for match {id} after kickoff time utc {matchToTip.KickoffTime}");
+
+                        return Json(new
+                        {
+                            Success = false,
+                            Error = "Tipp kann nicht mehr entgegengenommen werden. Das Spiel hat bereits begonnnen.",
+                            MatchId = id
+                        });
+                    }
+                }
 
                 using (var ctxt = new TippSpielContext())
                 {
-                    var matchObj = (from m in ctxt.TippMatchList 
-                                    where m.MatchId == id &&
-                                          m.User == user
-                                    select m)
-                                    .FirstOrDefault();
+                    var matchObj = (from m in ctxt.TippMatchList
+                            where m.MatchId == id &&
+                                  m.User == user
+                            select m)
+                        .FirstOrDefault();
 
                     if (matchObj == null)
                     {
@@ -423,12 +438,8 @@ namespace WMTippApp.Controllers
                         MyOdds = $"{odds:0.00}"
                     };
 
-                    {
-
-                        log.DebugFormat("Tipp data stats: remote hits={0}, cache hits={1}", MatchDBStats.GetRemoteHits(), MatchDBStats.GetCacheHits());
-                    }
-
-                    log.Debug("SetMatchTipp end");
+                    log.DebugFormat("Tipp data stats: remote hits={0}, cache hits={1}", MatchDBStats.GetRemoteHits(),
+                        MatchDBStats.GetCacheHits());
 
                     return Json(result);
                 }
