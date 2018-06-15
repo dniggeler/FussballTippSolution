@@ -305,23 +305,15 @@ namespace FussballTipp.Repository
 
             if(match.matchResults != null && match.matchResults.Any())
             {
-                var result = (from r in match.matchResults where r.resultTypeId == 3 select r).FirstOrDefault();
+                var result = (from r in match.matchResults where r.resultTypeId == 2 select r).FirstOrDefault();
+                matchModelObj.HasVerlaengerung = false;
 
-                if (result == null)
+                var result90min = (from r in match.matchResults where r.resultTypeId == 2 select r).FirstOrDefault();
+
+                if (result90min != null)
                 {
-                    matchModelObj.HasVerlaengerung = false;
-                }
-                else
-                {
-                    matchModelObj.HasVerlaengerung = true;
-
-                    var result90min = (from r in match.matchResults where r.resultTypeId == 3 select r).FirstOrDefault();
-
-                    if(result90min != null)
-                    {
-                        matchModelObj.HomeTeamScore = result90min.pointsTeam1;
-                        matchModelObj.AwayTeamScore = result90min.pointsTeam2;
-                    }
+                    matchModelObj.HomeTeamScore = result90min.pointsTeam1;
+                    matchModelObj.AwayTeamScore = result90min.pointsTeam2;
                 }
             }
 
