@@ -305,7 +305,6 @@ namespace FussballTipp.Repository
 
             if(match.matchResults != null && match.matchResults.Any())
             {
-                var result = (from r in match.matchResults where r.resultTypeId == 2 select r).FirstOrDefault();
                 matchModelObj.HasVerlaengerung = false;
 
                 var result90min = (from r in match.matchResults where r.resultTypeId == 2 select r).FirstOrDefault();
@@ -314,6 +313,15 @@ namespace FussballTipp.Repository
                 {
                     matchModelObj.HomeTeamScore = result90min.pointsTeam1;
                     matchModelObj.AwayTeamScore = result90min.pointsTeam2;
+                }
+                else
+                {
+                    var resultFinal = (from r in match.matchResults where r.resultTypeId == 5 select r).FirstOrDefault();
+                    if (resultFinal != null)
+                    {
+                        matchModelObj.HomeTeamScore = resultFinal.pointsTeam1;
+                        matchModelObj.AwayTeamScore = resultFinal.pointsTeam2;
+                    }
                 }
             }
 
