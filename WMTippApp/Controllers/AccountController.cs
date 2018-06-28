@@ -275,6 +275,43 @@ namespace WMTippApp.Controllers
             return View(model);
         }
 
+        [HttpGet]
+        public ActionResult ResetPassword(string username,string newPwd)
+        {
+            bool hasLocalAccount = OAuthWebSecurity.HasLocalAccount(WebSecurity.GetUserId(User.Identity.Name));
+            ViewBag.HasLocalPassword = hasLocalAccount;
+            ViewBag.ReturnUrl = Url.Action("Manage");
+            if (hasLocalAccount)
+            {
+                if (ModelState.IsValid)
+                {
+                    // ChangePassword will throw an exception rather than return false in certain failure scenarios.
+                    bool changePasswordSucceeded;
+                    try
+                    {
+                        var token = WebSecurity.GeneratePasswordResetToken(username, 1440);
+                        changePasswordSucceeded = WebSecurity.ResetPassword(token, newPwd);
+                    }
+                    catch (Exception)
+                    {
+                        changePasswordSucceeded = false;
+                    }
+
+                    if (changePasswordSucceeded)
+                    {
+                        return RedirectToAction("Manage", new { Message = ManageMessageId.ChangePasswordSuccess });
+                    }
+                    else
+                    {
+                        ModelState.AddModelError("", "The current password is incorrect or the new password is invalid.");
+                    }
+                }
+            }
+
+            // If we got this far, something failed, redisplay form
+            return View("Home");
+        }
+
         //
         // POST: /Account/ExternalLogin
 

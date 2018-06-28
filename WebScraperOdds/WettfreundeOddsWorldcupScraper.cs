@@ -131,6 +131,9 @@ namespace WebScraperOdds
             var tableIndex = 1;
             switch (spieltag)
             {
+                case 4:
+                case 5:
+                case 6:
                 case 7:
                     tableIndex = 2;
                     break;
@@ -186,9 +189,9 @@ namespace WebScraperOdds
 
                         newModel.Id = 0;
                         newModel.HomeTeam = team1;
-                        newModel.HomeTeamSearch = team1.Substring(0, 3).ToUpper();
+                        newModel.HomeTeamSearch = team1.Substring(0, Math.Min(team1.Length,3)).ToUpper();
                         newModel.AwayTeam = team2;
-                        newModel.AwayTeamSearch = team2.Substring(0, 3).ToUpper();
+                        newModel.AwayTeamSearch = team2.Substring(0, Math.Min(team1.Length, 3)).ToUpper();
                         newModel.WinOdds = (spieltag < 7) ? ExtractOdds(cells[5].InnerText) : ExtractOdds(cells[4].InnerText);
                         newModel.DrawOdds = (spieltag < 7) ? ExtractOdds(cells[6].InnerText) : ExtractOdds(cells[5].InnerText);
                         newModel.LossOdds = (spieltag < 7) ? ExtractOdds(cells[7].InnerText) : ExtractOdds(cells[6].InnerText);

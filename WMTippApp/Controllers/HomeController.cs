@@ -69,7 +69,7 @@ namespace WMTippApp.Controllers
             model.GroupId = currentSpieltag;
             model.GroupName = allGroups.Find(g => g.Id==currentSpieltag).Text;
 
-            var oddsList = _quoteRepository.GetOdds();
+            var oddsList = _quoteRepository.GetOdds(currentSpieltag);
 
             var matches = _matchDataRepository.GetMatchesByGroup(currentSpieltag);
 
