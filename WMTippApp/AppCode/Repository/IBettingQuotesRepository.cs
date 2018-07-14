@@ -6,6 +6,6 @@ namespace FussballTipp.Repository
     public interface IBettingQuotesRepository
     {
         List<OddsInfoModel> GetOdds();
-        List<OddsInfoModel> GetOdds(int tableIndex);
+        List<OddsInfoModel> GetOdds(int spieltag);
     }
 }

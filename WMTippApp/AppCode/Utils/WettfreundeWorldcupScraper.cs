@@ -39,11 +39,11 @@ namespace BhFS.Tippspiel.Utils
             return GetOdds(1);
         }
 
-        public List<OddsInfoModel> GetOdds(int tableIndex)
+        public List<OddsInfoModel> GetOdds(int spieltag)
         {
             _remoteHits++;
 
-            var oddsList = _oddsScraper.LoadOdds(_url, tableIndex.ToString());
+            var oddsList = _oddsScraper.LoadOdds(_url, spieltag.ToString());
 
             return oddsList;
         }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using BhFS.Tippspiel.Utils;
 using FussballTipp.Utils;
+using WMTippApp.SvcFussballDB;
 
 namespace FussballTipp.Repository
 {
@@ -305,27 +306,51 @@ namespace FussballTipp.Repository
 
             if(match.matchResults != null && match.matchResults.Any())
             {
+                matchResult result = EvaluateResult(match.matchResults);
+
                 matchModelObj.HasVerlaengerung = false;
 
-                var result90min = (from r in match.matchResults where r.resultTypeId == 2 select r).FirstOrDefault();
-
-                if (result90min != null)
+                if (result != null)
                 {
-                    matchModelObj.HomeTeamScore = result90min.pointsTeam1;
-                    matchModelObj.AwayTeamScore = result90min.pointsTeam2;
-                }
-                else
-                {
-                    var resultFinal = (from r in match.matchResults where r.resultTypeId == 5 select r).FirstOrDefault();
-                    if (resultFinal != null)
-                    {
-                        matchModelObj.HomeTeamScore = resultFinal.pointsTeam1;
-                        matchModelObj.AwayTeamScore = resultFinal.pointsTeam2;
-                    }
+                    matchModelObj.HomeTeamScore = result.pointsTeam1;
+                    matchModelObj.AwayTeamScore = result.pointsTeam2;
                 }
             }
 
             return matchModelObj;
+        }
+
+        private static matchResult EvaluateResult(ArrayOfMatchResult matchMatchResults)
+        {
+            matchResult result90Min = (from r in matchMatchResults where r.resultTypeId == 2 select r).FirstOrDefault();
+
+            matchResult resultVerlaengerung = (from r in matchMatchResults where r.resultTypeId == 4 select r).FirstOrDefault();
+
+            matchResult resultFinal = (from r in matchMatchResults where r.resultTypeId == 5 select r).FirstOrDefault();
+
+            if (resultVerlaengerung == null)
+            {
+                if (resultFinal != null && result90Min != null)
+                {
+                    return resultFinal;
+                }
+
+                if (result90Min != null)
+                {
+                    return result90Min;
+                }
+
+                if (resultFinal != null)
+                {
+                    return resultFinal;
+                }
+            }
+            else
+            {
+                return result90Min;
+            }
+
+            return null;
         }
 
         private string CACHE_MATCH_PREFIX = "cacheGame";

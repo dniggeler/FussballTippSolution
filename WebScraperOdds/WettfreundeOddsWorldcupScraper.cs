@@ -131,11 +131,9 @@ namespace WebScraperOdds
             var tableIndex = 1;
             switch (spieltag)
             {
-                case 4:
-                case 5:
                 case 6:
                 case 7:
-                    tableIndex = 2;
+                    tableIndex = 1;
                     break;
             }
 
@@ -158,7 +156,19 @@ namespace WebScraperOdds
             var htmlRows = doc.DocumentNode
                 .SelectSingleNode("//body")
                 .SelectSingleNode(string.Format("(//table)[{0}]", tableIndex))
-                .CssSelect("tr");
+                .CssSelect("tr")
+                .ToList();
+
+            if (spieltag == 7)
+            {
+                var htmlRowsFinal = doc.DocumentNode
+                    .SelectSingleNode("//body")
+                    .SelectSingleNode(string.Format("(//table)[{0}]", tableIndex+1))
+                    .CssSelect("tr")
+                    .ToList();
+
+                htmlRows.AddRange(htmlRowsFinal);
+            }
 
             var iter = htmlRows.GetEnumerator();
             if (iter.MoveNext())

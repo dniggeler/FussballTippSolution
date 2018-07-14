@@ -16,7 +16,7 @@ namespace BhFS.Tippspiel.Utils
             LeagueShortcut = "wmrussland";
             LeagueSaison = "2018";
             StartSpieltag = 1;
-            CurrentSpieltag = 4;
+            CurrentSpieltag = 7;
             EndSpieltag = 8;
         }
     }
